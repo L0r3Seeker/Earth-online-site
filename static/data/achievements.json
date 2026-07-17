@@ -1,0 +1,8993 @@
+[
+  {
+    "id": 1,
+    "title": "载入存档中...",
+    "description": "完成角色创建，正式加入地球 Online 的漫长冒险。",
+    "rarity": "gold",
+    "unlock_rate": 100.0,
+    "icon": "birth",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "永恒挚爱",
+    "description": "在茫茫人海里找到彼此，并郑重说出想共度余生的心意。",
+    "rarity": "gold",
+    "unlock_rate": 3.2,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "学业达成",
+    "description": "完成一段高等教育旅程，为学生时代写下清晰的句点。",
+    "rarity": "silver",
+    "unlock_rate": 38.0,
+    "icon": "education",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "向远而行",
+    "description": "第一次独自离开熟悉的地方，去陌生城市开启新章节。",
+    "rarity": "silver",
+    "unlock_rate": 85.0,
+    "icon": "travel",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "旧友如风",
+    "description": "曾经无话不谈的人，后来也成了彼此人生里温柔的远方。",
+    "rarity": "silver",
+    "unlock_rate": 75.0,
+    "icon": "friends",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "熬夜副本",
+    "description": "凌晨三点仍在清醒作战——身体的警报也请记得认真听。",
+    "rarity": "silver",
+    "unlock_rate": 93.0,
+    "icon": "night",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "独处自在",
+    "description": "能从一个人的吃饭、出行与安静时光里，收获自在与能量。",
+    "rarity": "silver",
+    "unlock_rate": 43.0,
+    "icon": "alone",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "生物钟失联",
+    "description": "连续清醒超过 24 小时；这不是勋章，下一站请优先补觉。",
+    "rarity": "silver",
+    "unlock_rate": 16.7,
+    "icon": "sleep",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "截止日冲刺",
+    "description": "总能在截止日前的最后一刻，爆发出惊人的通关能力。",
+    "rarity": "silver",
+    "unlock_rate": 88.0,
+    "icon": "procrastinate",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "厨房新手",
+    "description": "不靠外卖也能端出一桌热气腾腾的菜，生活技能成功升级。",
+    "rarity": "silver",
+    "unlock_rate": 62.0,
+    "icon": "cooking",
+    "completed": false
+  },
+  {
+    "id": 11,
+    "title": "岁月知己",
+    "description": "拥有一位相伴十年以上、能放心交付心事的挚友。",
+    "rarity": "gold",
+    "unlock_rate": 13.0,
+    "icon": "friendship",
+    "completed": false
+  },
+  {
+    "id": 12,
+    "title": "轻装前行",
+    "description": "没有债务牵绊，把收入与选择权稳稳留在自己手中。",
+    "rarity": "gold",
+    "unlock_rate": 9.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 13,
+    "title": "故事未完",
+    "description": "认真爱过，也学会接受有些同行只能停在故事中途。",
+    "rarity": "silver",
+    "unlock_rate": 61.0,
+    "icon": "regret",
+    "completed": false
+  },
+  {
+    "id": 14,
+    "title": "奔赴现场",
+    "description": "在人声与灯光交汇的现场，为喜欢的音乐热烈欢呼一次。",
+    "rarity": "silver",
+    "unlock_rate": 18.6,
+    "icon": "concert",
+    "completed": false
+  },
+  {
+    "id": 15,
+    "title": "世界坐标",
+    "description": "把护照带出国门，在另一种日常里留下自己的坐标。",
+    "rarity": "silver",
+    "unlock_rate": 11.0,
+    "icon": "abroad",
+    "completed": false
+  },
+  {
+    "id": 16,
+    "title": "睡眠赤字",
+    "description": "长期睡眠不足七小时；请把这枚成就当作一条温柔的提醒。",
+    "rarity": "silver",
+    "unlock_rate": 36.2,
+    "icon": "insomnia",
+    "completed": false
+  },
+  {
+    "id": 17,
+    "title": "公路漫游",
+    "description": "握着方向盘驶向远方，把沿途风景变成自己的回忆。",
+    "rarity": "silver",
+    "unlock_rate": 35.4,
+    "icon": "driving",
+    "completed": false
+  },
+  {
+    "id": 18,
+    "title": "平安长卷",
+    "description": "在寻常岁月里安稳生活，平平安安本身就是珍贵成就。",
+    "rarity": "gold",
+    "unlock_rate": 7.8,
+    "icon": "peace",
+    "completed": false
+  },
+  {
+    "id": 19,
+    "title": "心意同频",
+    "description": "鼓起勇气说出喜欢，恰好收到了同样真诚的回应。",
+    "rarity": "gold",
+    "unlock_rate": 6.5,
+    "icon": "mutual",
+    "completed": false
+  },
+  {
+    "id": 20,
+    "title": "热爱不熄",
+    "description": "让一件喜欢的事陪伴五年以上，并始终愿意为它投入时间。",
+    "rarity": "gold",
+    "unlock_rate": 13.0,
+    "icon": "passion",
+    "completed": false
+  },
+  {
+    "id": 21,
+    "title": "登高望远",
+    "description": "靠自己的脚步登上一座高山，把辽阔风景收进眼底。",
+    "rarity": "silver",
+    "unlock_rate": 43.5,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 22,
+    "title": "想法待办",
+    "description": "脑海里住着很多好点子；也许下一步，就是把其中一个写进今天。",
+    "rarity": "silver",
+    "unlock_rate": 60.7,
+    "icon": "daydream",
+    "completed": false
+  },
+  {
+    "id": 23,
+    "title": "安家落定",
+    "description": "靠自己的规划与积累，拥有一处可以安心回去的家。",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "house",
+    "completed": false
+  },
+  {
+    "id": 24,
+    "title": "初恋章节",
+    "description": "解锁人生第一次心动，让青春有了一段独一无二的剧情。",
+    "rarity": "silver",
+    "unlock_rate": 71.0,
+    "icon": "firstlove",
+    "completed": false
+  },
+  {
+    "id": 25,
+    "title": "难道我是天才",
+    "description": "考试获得过满分",
+    "rarity": "silver",
+    "unlock_rate": 72.0,
+    "icon": "genius",
+    "completed": false
+  },
+  {
+    "id": 26,
+    "title": "外卖至尊VIP",
+    "description": "连续一整周三餐全靠外卖续命",
+    "rarity": "silver",
+    "unlock_rate": 78.0,
+    "icon": "takeout",
+    "completed": false
+  },
+  {
+    "id": 27,
+    "title": "驾照猎人",
+    "description": "通关驾考专属副本，解锁机动车驾驶权限",
+    "rarity": "silver",
+    "unlock_rate": 53.0,
+    "icon": "license",
+    "completed": false
+  },
+  {
+    "id": 28,
+    "title": "误闯新世界",
+    "description": "原本只是想用浏览器搜索学习资料，结果...",
+    "rarity": "silver",
+    "unlock_rate": 65.3,
+    "icon": "internet",
+    "completed": false
+  },
+  {
+    "id": 29,
+    "title": "山野露营",
+    "description": "体验户外野外露营过夜",
+    "rarity": "silver",
+    "unlock_rate": 10.3,
+    "icon": "camping",
+    "completed": false
+  },
+  {
+    "id": 30,
+    "title": "公共交通常客",
+    "description": "常年依靠地铁公交出行",
+    "rarity": "silver",
+    "unlock_rate": 59.2,
+    "icon": "bus",
+    "completed": false
+  },
+  {
+    "id": 31,
+    "title": "每天微笑",
+    "description": "平均每日微笑超过10次",
+    "rarity": "silver",
+    "unlock_rate": 27.9,
+    "icon": "smile",
+    "completed": false
+  },
+  {
+    "id": 32,
+    "title": "孤独患者",
+    "description": "享受孤独，习惯一个人生活",
+    "rarity": "silver",
+    "unlock_rate": 33.8,
+    "icon": "lonely",
+    "completed": false
+  },
+  {
+    "id": 33,
+    "title": "浪漫主义者",
+    "description": "曾为心爱之人，策划浪漫惊喜",
+    "rarity": "silver",
+    "unlock_rate": 22.6,
+    "icon": "romantic",
+    "completed": false
+  },
+  {
+    "id": 34,
+    "title": "游戏王者",
+    "description": "在某款游戏中达到最高段位",
+    "rarity": "silver",
+    "unlock_rate": 19.7,
+    "icon": "gamer",
+    "completed": false
+  },
+  {
+    "id": 35,
+    "title": "坚持运动",
+    "description": "连续运动超过100天",
+    "rarity": "silver",
+    "unlock_rate": 24.3,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 36,
+    "title": "读万卷书",
+    "description": "一年内读完10本及以上书籍",
+    "rarity": "silver",
+    "unlock_rate": 14.6,
+    "icon": "reading",
+    "completed": false
+  },
+  {
+    "id": 37,
+    "title": "心灵疗愈师",
+    "description": "主动治愈他人，给出过积极建议",
+    "rarity": "silver",
+    "unlock_rate": 15.8,
+    "icon": "healer",
+    "completed": false
+  },
+  {
+    "id": 38,
+    "title": "长期主义者",
+    "description": "坚持一件事超过3年以上",
+    "rarity": "gold",
+    "unlock_rate": 12.1,
+    "icon": "longterm",
+    "completed": false
+  },
+  {
+    "id": 39,
+    "title": "斜杠青年",
+    "description": "拥有2份及以上稳定收入来源",
+    "rarity": "gold",
+    "unlock_rate": 8.7,
+    "icon": "sidehustle",
+    "completed": false
+  },
+  {
+    "id": 40,
+    "title": "理财小能手",
+    "description": "年度存款超过10万",
+    "rarity": "gold",
+    "unlock_rate": 7.3,
+    "icon": "finance",
+    "completed": false
+  },
+  {
+    "id": 41,
+    "title": "时间管理大师",
+    "description": "从不拖延，高效利用每一天",
+    "rarity": "gold",
+    "unlock_rate": 6.2,
+    "icon": "timemanage",
+    "completed": false
+  },
+  {
+    "id": 42,
+    "title": "家庭支柱",
+    "description": "为家人承担主要经济责任",
+    "rarity": "gold",
+    "unlock_rate": 17.4,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 43,
+    "title": "传递温暖",
+    "description": "长期参与公益志愿活动",
+    "rarity": "gold",
+    "unlock_rate": 12.8,
+    "icon": "charity",
+    "completed": false
+  },
+  {
+    "id": 44,
+    "title": "自律化身",
+    "description": "早起早睡，坚持自律生活",
+    "rarity": "gold",
+    "unlock_rate": 5.1,
+    "icon": "discipline",
+    "completed": false
+  },
+  {
+    "id": 45,
+    "title": "情绪稳定",
+    "description": "极少生气，能平和面对人生",
+    "rarity": "silver",
+    "unlock_rate": 8.9,
+    "icon": "calm",
+    "completed": false
+  },
+  {
+    "id": 46,
+    "title": "突破极限",
+    "description": "完成一次马拉松全程",
+    "rarity": "gold",
+    "unlock_rate": 3.2,
+    "icon": "marathon",
+    "completed": false
+  },
+  {
+    "id": 47,
+    "title": "创业成功",
+    "description": "创办公司或项目，并持续运营",
+    "rarity": "gold",
+    "unlock_rate": 2.1,
+    "icon": "startup",
+    "completed": false
+  },
+  {
+    "id": 48,
+    "title": "财务自由",
+    "description": "被动收入覆盖全部生活开销",
+    "rarity": "gold",
+    "unlock_rate": 1.3,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 49,
+    "title": "觉醒时刻",
+    "description": "彻底看透生活真相，开始为自己而活",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "awakening",
+    "completed": false
+  },
+  {
+    "id": 50,
+    "title": "心动瞬间",
+    "description": "人群中多看了一眼，心跳漏了一拍 —— 对某人一见钟情",
+    "rarity": "silver",
+    "unlock_rate": 35.0,
+    "icon": "love_0",
+    "completed": false
+  },
+  {
+    "id": 51,
+    "title": "初次牵手",
+    "description": "手心冒汗，指尖相触的那一刻全世界都安静了 —— 第一次牵起心爱之人的手",
+    "rarity": "silver",
+    "unlock_rate": 42.0,
+    "icon": "love_1",
+    "completed": false
+  },
+  {
+    "id": 52,
+    "title": "初吻",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "gold",
+    "unlock_rate": 28.0,
+    "icon": "love_2",
+    "completed": false
+  },
+  {
+    "id": 53,
+    "title": "告白成功",
+    "description": "酝酿已久的话说出口，等来一句我也是 —— 表白被接受",
+    "rarity": "gold",
+    "unlock_rate": 15.0,
+    "icon": "love_3",
+    "completed": false
+  },
+  {
+    "id": 54,
+    "title": "百天纪念",
+    "description": "一起走过第一个一百天 —— 恋爱满100天",
+    "rarity": "silver",
+    "unlock_rate": 22.0,
+    "icon": "love_4",
+    "completed": false
+  },
+  {
+    "id": 55,
+    "title": "周年之约",
+    "description": "春夏秋冬又一春 —— 恋爱一周年",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "love_5",
+    "completed": false
+  },
+  {
+    "id": 56,
+    "title": "异地坚守",
+    "description": "距离没有打败爱情 —— 异地恋超过1年",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "love_6",
+    "completed": false
+  },
+  {
+    "id": 57,
+    "title": "父母认可",
+    "description": "带你见我家长 —— 获得双方父母祝福",
+    "rarity": "gold",
+    "unlock_rate": 12.0,
+    "icon": "love_7",
+    "completed": false
+  },
+  {
+    "id": 58,
+    "title": "求婚成功",
+    "description": "单膝跪地，说出那句嫁给我 —— 求婚成功",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "love_8",
+    "completed": false
+  },
+  {
+    "id": 59,
+    "title": "新婚燕尔",
+    "description": "执子之手，与子偕老 —— 步入婚姻殿堂",
+    "rarity": "gold",
+    "unlock_rate": 7.0,
+    "icon": "love_9",
+    "completed": false
+  },
+  {
+    "id": 60,
+    "title": "纸婚之喜",
+    "description": "第一年，一切都是新的 —— 结婚一周年",
+    "rarity": "silver",
+    "unlock_rate": 6.5,
+    "icon": "love_0",
+    "completed": false
+  },
+  {
+    "id": 61,
+    "title": "锡婚之约",
+    "description": "十年光阴，韧如锡器 —— 结婚十周年",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "love_1",
+    "completed": false
+  },
+  {
+    "id": 62,
+    "title": "珍珠婚",
+    "description": "三十年打磨，温润如珠 —— 结婚三十周年",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "love_2",
+    "completed": false
+  },
+  {
+    "id": 63,
+    "title": "金婚传奇",
+    "description": "五十年风雨同舟 —— 结婚五十周年",
+    "rarity": "gold",
+    "unlock_rate": 0.5,
+    "icon": "love_3",
+    "completed": false
+  },
+  {
+    "id": 64,
+    "title": "白头偕老",
+    "description": "从青丝到白发，身边始终是你 —— 相伴到老",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "love_4",
+    "completed": false
+  },
+  {
+    "id": 65,
+    "title": "初入职场",
+    "description": "拿着简历，忐忑推开第一扇门 —— 找到第一份工作",
+    "rarity": "silver",
+    "unlock_rate": 85.0,
+    "icon": "career_5",
+    "completed": false
+  },
+  {
+    "id": 66,
+    "title": "首次加薪",
+    "description": "努力被看见，数字在跳动 —— 第一次涨工资",
+    "rarity": "silver",
+    "unlock_rate": 65.0,
+    "icon": "career_6",
+    "completed": false
+  },
+  {
+    "id": 67,
+    "title": "升职记",
+    "description": "肩膀上的担子重了，视野也开阔了 —— 第一次升职",
+    "rarity": "silver",
+    "unlock_rate": 40.0,
+    "icon": "career_7",
+    "completed": false
+  },
+  {
+    "id": 68,
+    "title": "独当一面",
+    "description": "从执行者到决策者 —— 独立负责一个项目",
+    "rarity": "silver",
+    "unlock_rate": 30.0,
+    "icon": "career_8",
+    "completed": false
+  },
+  {
+    "id": 69,
+    "title": "行业认可",
+    "description": "名字出现在行业榜单上 —— 获得专业奖项",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "career_9",
+    "completed": false
+  },
+  {
+    "id": 70,
+    "title": "跳槽成功",
+    "description": "人往高处走 —— 成功跳槽到更好的平台",
+    "rarity": "silver",
+    "unlock_rate": 35.0,
+    "icon": "career_0",
+    "completed": false
+  },
+  {
+    "id": 71,
+    "title": "创业启航",
+    "description": "按下启动键，一切从零开始 —— 创办自己的事业",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "career_1",
+    "completed": false
+  },
+  {
+    "id": 72,
+    "title": "第一桶金",
+    "description": "账户上的数字第一次突破想象 —— 赚到人生第一个10万",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "career_2",
+    "completed": false
+  },
+  {
+    "id": 73,
+    "title": "百万突破",
+    "description": "七位数的里程碑 —— 个人资产突破百万",
+    "rarity": "gold",
+    "unlock_rate": 10.0,
+    "icon": "career_3",
+    "completed": false
+  },
+  {
+    "id": 74,
+    "title": "千万富翁",
+    "description": "一个小目标 —— 个人资产突破千万",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "career_4",
+    "completed": false
+  },
+  {
+    "id": 75,
+    "title": "财富自由",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "career_5",
+    "completed": false
+  },
+  {
+    "id": 76,
+    "title": "退休提前",
+    "description": "提前下车，去看世界 —— 40岁前退休",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "career_6",
+    "completed": false
+  },
+  {
+    "id": 77,
+    "title": "技能精通",
+    "description": "十年磨一剑 —— 在某领域深耕超过10年",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "career_7",
+    "completed": false
+  },
+  {
+    "id": 78,
+    "title": "导师之路",
+    "description": "把经验传递下去 —— 带过3个以上徒弟",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "career_8",
+    "completed": false
+  },
+  {
+    "id": 79,
+    "title": "行业大牛",
+    "description": "一提及你的名字，业内都知道 —— 成为行业知名人物",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "career_9",
+    "completed": false
+  },
+  {
+    "id": 80,
+    "title": "学会骑车",
+    "description": "风在耳边呼啸，我学会了平衡 —— 学会骑自行车",
+    "rarity": "silver",
+    "unlock_rate": 90.0,
+    "icon": "growth_0",
+    "completed": false
+  },
+  {
+    "id": 81,
+    "title": "学会游泳",
+    "description": "从怕水到如鱼得水 —— 学会游泳",
+    "rarity": "silver",
+    "unlock_rate": 70.0,
+    "icon": "growth_1",
+    "completed": false
+  },
+  {
+    "id": 82,
+    "title": "考取驾照",
+    "description": "方向盘握在手中 —— 拿到机动车驾驶证",
+    "rarity": "silver",
+    "unlock_rate": 55.0,
+    "icon": "growth_2",
+    "completed": false
+  },
+  {
+    "id": 83,
+    "title": "大学录取",
+    "description": "十年寒窗，换来一纸通知书 —— 考上大学",
+    "rarity": "silver",
+    "unlock_rate": 45.0,
+    "icon": "growth_3",
+    "completed": false
+  },
+  {
+    "id": 84,
+    "title": "毕业答辩",
+    "description": "为学生时代画上句点 —— 顺利毕业",
+    "rarity": "silver",
+    "unlock_rate": 40.0,
+    "icon": "growth_4",
+    "completed": false
+  },
+  {
+    "id": 85,
+    "title": "第一份工资",
+    "description": "用自己的双手赚到钱 —— 领取第一份薪水",
+    "rarity": "silver",
+    "unlock_rate": 80.0,
+    "icon": "growth_5",
+    "completed": false
+  },
+  {
+    "id": 86,
+    "title": "第一次租房",
+    "description": "属于自己的小天地 —— 第一次独立租房",
+    "rarity": "silver",
+    "unlock_rate": 75.0,
+    "icon": "growth_6",
+    "completed": false
+  },
+  {
+    "id": 87,
+    "title": "买房置业",
+    "description": "万家灯火，终于有一盏为我而亮 —— 购置房产",
+    "rarity": "gold",
+    "unlock_rate": 15.0,
+    "icon": "growth_7",
+    "completed": false
+  },
+  {
+    "id": 88,
+    "title": "装修新家",
+    "description": "亲手打造理想中的家 —— 完成房屋装修",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "growth_8",
+    "completed": false
+  },
+  {
+    "id": 89,
+    "title": "购车圆梦",
+    "description": "四个轮子的自由 —— 购买第一辆车",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "growth_9",
+    "completed": false
+  },
+  {
+    "id": 90,
+    "title": "学会做饭",
+    "description": "从泡面到满汉全席 —— 学会做10道以上家常菜",
+    "rarity": "silver",
+    "unlock_rate": 50.0,
+    "icon": "growth_0",
+    "completed": false
+  },
+  {
+    "id": 91,
+    "title": "学会乐器",
+    "description": "指尖流淌出旋律 —— 学会一种乐器",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "growth_1",
+    "completed": false
+  },
+  {
+    "id": 92,
+    "title": "学会绘画",
+    "description": "用色彩描绘心中的世界 —— 学会绘画",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "growth_2",
+    "completed": false
+  },
+  {
+    "id": 93,
+    "title": "学会编程",
+    "description": "从Hello World到构建世界 —— 掌握一门编程语言",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "growth_3",
+    "completed": false
+  },
+  {
+    "id": 94,
+    "title": "学会一门外语",
+    "description": "推开另一扇文化的门 —— 熟练掌握一门外语",
+    "rarity": "silver",
+    "unlock_rate": 22.0,
+    "icon": "growth_4",
+    "completed": false
+  },
+  {
+    "id": 95,
+    "title": "北京打卡",
+    "description": "天安门广场上的红旗 —— 去过北京",
+    "rarity": "silver",
+    "unlock_rate": 30.0,
+    "icon": "travel_5",
+    "completed": false
+  },
+  {
+    "id": 96,
+    "title": "上海印象",
+    "description": "外滩的霓虹闪烁 —— 去过上海",
+    "rarity": "silver",
+    "unlock_rate": 28.0,
+    "icon": "travel_6",
+    "completed": false
+  },
+  {
+    "id": 97,
+    "title": "西湖漫步",
+    "description": "欲把西湖比西子 —— 去过杭州",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "travel_7",
+    "completed": false
+  },
+  {
+    "id": 98,
+    "title": "蓉城时光",
+    "description": "宽窄巷子的悠闲午后 —— 去过成都",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "travel_8",
+    "completed": false
+  },
+  {
+    "id": 99,
+    "title": "雪域高原",
+    "description": "离天空最近的地方 —— 去过西藏",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "travel_9",
+    "completed": false
+  },
+  {
+    "id": 100,
+    "title": "天涯海角",
+    "description": "走到中国最南端 —— 去过海南",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "travel_0",
+    "completed": false
+  },
+  {
+    "id": 101,
+    "title": "塞外风光",
+    "description": "大漠孤烟直 —— 去过新疆",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "travel_1",
+    "completed": false
+  },
+  {
+    "id": 102,
+    "title": "彩云之南",
+    "description": "苍山洱海畔 —— 去过云南",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "travel_2",
+    "completed": false
+  },
+  {
+    "id": 103,
+    "title": "山城雾都",
+    "description": "洪崖洞的魔幻夜景 —— 去过重庆",
+    "rarity": "silver",
+    "unlock_rate": 22.0,
+    "icon": "travel_3",
+    "completed": false
+  },
+  {
+    "id": 104,
+    "title": "东方之珠",
+    "description": "维多利亚港的夜景 —— 去过香港",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "travel_4",
+    "completed": false
+  },
+  {
+    "id": 105,
+    "title": "宝岛台湾",
+    "description": "阿里山的姑娘 —— 去过台湾",
+    "rarity": "silver",
+    "unlock_rate": 8.0,
+    "icon": "travel_5",
+    "completed": false
+  },
+  {
+    "id": 106,
+    "title": "日本之行",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "travel_6",
+    "completed": false
+  },
+  {
+    "id": 107,
+    "title": "欧洲之旅",
+    "description": "浪漫的巴黎铁塔 —— 去过欧洲",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "travel_7",
+    "completed": false
+  },
+  {
+    "id": 108,
+    "title": "美洲探索",
+    "description": "自由女神像前留影 —— 去过美国",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "travel_8",
+    "completed": false
+  },
+  {
+    "id": 109,
+    "title": "环游世界",
+    "description": "地球那么大，我想去看看 —— 去过20个以上国家",
+    "rarity": "gold",
+    "unlock_rate": 0.5,
+    "icon": "travel_9",
+    "completed": false
+  },
+  {
+    "id": 110,
+    "title": "生日派对",
+    "description": "蜡烛前的许愿 —— 办过一次大型生日聚会",
+    "rarity": "silver",
+    "unlock_rate": 45.0,
+    "icon": "life_0",
+    "completed": false
+  },
+  {
+    "id": 111,
+    "title": "养宠物",
+    "description": "毛茸茸的家人 —— 养过一只宠物",
+    "rarity": "silver",
+    "unlock_rate": 40.0,
+    "icon": "life_1",
+    "completed": false
+  },
+  {
+    "id": 112,
+    "title": "种花养花",
+    "description": "阳台上的小花园 —— 成功养活过植物",
+    "rarity": "silver",
+    "unlock_rate": 35.0,
+    "icon": "life_2",
+    "completed": false
+  },
+  {
+    "id": 113,
+    "title": "学会品茶",
+    "description": "一杯清茶，半日悠闲 —— 懂得品茶",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "life_3",
+    "completed": false
+  },
+  {
+    "id": 114,
+    "title": "咖啡品鉴师",
+    "description": "从速溶到手冲 —— 懂得品鉴咖啡",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "life_4",
+    "completed": false
+  },
+  {
+    "id": 115,
+    "title": "观影百部",
+    "description": "一年看过100部电影 —— 年度观影量超100",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "life_5",
+    "completed": false
+  },
+  {
+    "id": 116,
+    "title": "追剧达人",
+    "description": "熬夜追完一整部剧 —— 有过通宵追剧经历",
+    "rarity": "silver",
+    "unlock_rate": 45.0,
+    "icon": "life_6",
+    "completed": false
+  },
+  {
+    "id": 117,
+    "title": "演唱会现场",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "life_7",
+    "completed": false
+  },
+  {
+    "id": 118,
+    "title": "音乐节狂欢",
+    "description": "草地上的青春 —— 参加过音乐节",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "life_8",
+    "completed": false
+  },
+  {
+    "id": 119,
+    "title": "蹦极挑战",
+    "description": "纵身一跃的勇气 —— 玩过蹦极",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "life_9",
+    "completed": false
+  },
+  {
+    "id": 120,
+    "title": "跳伞体验",
+    "description": "自由落体的快感 —— 体验过跳伞",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "life_0",
+    "completed": false
+  },
+  {
+    "id": 121,
+    "title": "潜水之旅",
+    "description": "海底世界的奇幻 —— 体验过深潜",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "life_1",
+    "completed": false
+  },
+  {
+    "id": 122,
+    "title": "滑雪初体验",
+    "description": "雪道上的飞驰 —— 学会滑雪",
+    "rarity": "silver",
+    "unlock_rate": 8.0,
+    "icon": "life_2",
+    "completed": false
+  },
+  {
+    "id": 123,
+    "title": "冲浪达人",
+    "description": "乘风破浪的感觉 —— 学会冲浪",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "life_3",
+    "completed": false
+  },
+  {
+    "id": 124,
+    "title": "登山登顶",
+    "description": "会当凌绝顶 —— 登顶过一座名山",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "life_4",
+    "completed": false
+  },
+  {
+    "id": 125,
+    "title": "为人父母",
+    "description": "迎接新生命的到来 —— 有了自己的孩子",
+    "rarity": "gold",
+    "unlock_rate": 20.0,
+    "icon": "family_5",
+    "completed": false
+  },
+  {
+    "id": 126,
+    "title": "新手奶爸",
+    "description": "换尿布的手忙脚乱 —— 成为父亲",
+    "rarity": "gold",
+    "unlock_rate": 18.0,
+    "icon": "family_6",
+    "completed": false
+  },
+  {
+    "id": 127,
+    "title": "新手宝妈",
+    "description": "十月怀胎的辛苦与幸福 —— 成为母亲",
+    "rarity": "gold",
+    "unlock_rate": 18.0,
+    "icon": "family_7",
+    "completed": false
+  },
+  {
+    "id": 128,
+    "title": "孩子第一声爸妈",
+    "description": "那一刻心都化了 —— 听到孩子第一次叫爸妈",
+    "rarity": "gold",
+    "unlock_rate": 16.0,
+    "icon": "family_8",
+    "completed": false
+  },
+  {
+    "id": 129,
+    "title": "孩子上学",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "silver",
+    "unlock_rate": 14.0,
+    "icon": "family_9",
+    "completed": false
+  },
+  {
+    "id": 130,
+    "title": "孩子毕业",
+    "description": "看着你长大成人 —— 孩子大学毕业",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "family_0",
+    "completed": false
+  },
+  {
+    "id": 131,
+    "title": "孩子结婚",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "family_1",
+    "completed": false
+  },
+  {
+    "id": 132,
+    "title": "含饴弄孙",
+    "description": "生命的延续 —— 抱上孙子/孙女",
+    "rarity": "gold",
+    "unlock_rate": 10.0,
+    "icon": "family_2",
+    "completed": false
+  },
+  {
+    "id": 133,
+    "title": "金婚父母",
+    "description": "父母的爱情是最好的榜样 —— 父母结婚50年",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "family_3",
+    "completed": false
+  },
+  {
+    "id": 134,
+    "title": "全家福",
+    "description": "一年一度的团圆 —— 每年拍全家福",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "family_4",
+    "completed": false
+  },
+  {
+    "id": 135,
+    "title": "家庭旅行",
+    "description": "一家人的美好回忆 —— 和家人一起旅行",
+    "rarity": "silver",
+    "unlock_rate": 30.0,
+    "icon": "family_5",
+    "completed": false
+  },
+  {
+    "id": 136,
+    "title": "孝敬父母",
+    "description": "你养我长大，我陪你变老 —— 带父母定期体检",
+    "rarity": "silver",
+    "unlock_rate": 28.0,
+    "icon": "family_6",
+    "completed": false
+  },
+  {
+    "id": 137,
+    "title": "手足情深",
+    "description": "一生的兄弟姐妹 —— 和兄弟姐妹关系亲密",
+    "rarity": "silver",
+    "unlock_rate": 35.0,
+    "icon": "family_7",
+    "completed": false
+  },
+  {
+    "id": 138,
+    "title": "家谱传承",
+    "description": "知道家族三代以上的故事 —— 了解家族历史",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "family_8",
+    "completed": false
+  },
+  {
+    "id": 139,
+    "title": "家族聚会",
+    "description": "四世同堂的温馨 —— 举办过大型家族聚会",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "family_9",
+    "completed": false
+  },
+  {
+    "id": 140,
+    "title": "厨艺大师",
+    "description": "能做出一桌丰盛的年夜饭 —— 会做20道以上大菜",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "skills_0",
+    "completed": false
+  },
+  {
+    "id": 141,
+    "title": "烘焙达人",
+    "description": "烤箱里飘出的香甜 —— 学会烘焙",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "skills_1",
+    "completed": false
+  },
+  {
+    "id": 142,
+    "title": "咖啡师",
+    "description": "拉花是一门艺术 —— 会做花式咖啡",
+    "rarity": "silver",
+    "unlock_rate": 8.0,
+    "icon": "skills_2",
+    "completed": false
+  },
+  {
+    "id": 143,
+    "title": "调酒师",
+    "description": "鸡尾酒的缤纷世界 —— 会调10种以上鸡尾酒",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "skills_3",
+    "completed": false
+  },
+  {
+    "id": 144,
+    "title": "摄影达人",
+    "description": "用镜头记录美好 —— 摄影技术专业",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "skills_4",
+    "completed": false
+  },
+  {
+    "id": 145,
+    "title": "视频剪辑",
+    "description": "剪出精彩人生 —— 熟练使用剪辑软件",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "skills_5",
+    "completed": false
+  },
+  {
+    "id": 146,
+    "title": "写作能手",
+    "description": "笔下生花 —— 公开发表过文章",
+    "rarity": "silver",
+    "unlock_rate": 8.0,
+    "icon": "skills_6",
+    "completed": false
+  },
+  {
+    "id": 147,
+    "title": "书法造诣",
+    "description": "笔走龙蛇 —— 写得一手好字",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "skills_7",
+    "completed": false
+  },
+  {
+    "id": 148,
+    "title": "绘画精通",
+    "description": "妙笔生花 —— 绘画达到专业水平",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "skills_8",
+    "completed": false
+  },
+  {
+    "id": 149,
+    "title": "音乐创作",
+    "description": "谱写自己的旋律 —— 创作过原创音乐",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "skills_9",
+    "completed": false
+  },
+  {
+    "id": 150,
+    "title": "舞蹈达人",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "skills_0",
+    "completed": false
+  },
+  {
+    "id": 151,
+    "title": "演讲高手",
+    "description": "聚光灯下的从容 —— 公开演讲不怯场",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "skills_1",
+    "completed": false
+  },
+  {
+    "id": 152,
+    "title": "谈判专家",
+    "description": "谈笑间达成共识 —— 谈判能力出众",
+    "rarity": "silver",
+    "unlock_rate": 8.0,
+    "icon": "skills_2",
+    "completed": false
+  },
+  {
+    "id": 153,
+    "title": "领导才能",
+    "description": "一呼百应的魅力 —— 带领过10人以上团队",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "skills_3",
+    "completed": false
+  },
+  {
+    "id": 154,
+    "title": "记忆大师",
+    "description": "过目不忘的本领 —— 拥有超强记忆力",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "skills_4",
+    "completed": false
+  },
+  {
+    "id": 155,
+    "title": "戒烟成功",
+    "description": "和尼古丁说再见 —— 成功戒烟超过1年",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "health_5",
+    "completed": false
+  },
+  {
+    "id": 156,
+    "title": "戒酒成功",
+    "description": "清醒的人生更精彩 —— 成功戒酒",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "health_6",
+    "completed": false
+  },
+  {
+    "id": 157,
+    "title": "减肥成功",
+    "description": "遇见更好的自己 —— 减重20斤以上",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "health_7",
+    "completed": false
+  },
+  {
+    "id": 158,
+    "title": "健身增肌",
+    "description": "穿衣显瘦脱衣有肉 —— 坚持健身1年以上",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "health_8",
+    "completed": false
+  },
+  {
+    "id": 159,
+    "title": "马拉松完赛",
+    "description": "42.195公里的坚持 —— 跑完马拉松全程",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "health_9",
+    "completed": false
+  },
+  {
+    "id": 160,
+    "title": "百公里徒步",
+    "description": "用脚步丈量大地 —— 完成百公里徒步",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "health_0",
+    "completed": false
+  },
+  {
+    "id": 161,
+    "title": "铁人三项",
+    "description": "极限挑战自我 —— 完成铁人三项",
+    "rarity": "gold",
+    "unlock_rate": 0.5,
+    "icon": "health_1",
+    "completed": false
+  },
+  {
+    "id": 162,
+    "title": "瑜伽大师",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "health_2",
+    "completed": false
+  },
+  {
+    "id": 163,
+    "title": "太极高手",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "health_3",
+    "completed": false
+  },
+  {
+    "id": 164,
+    "title": "冥想入门",
+    "description": "和内心对话 —— 坚持冥想超过100天",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "health_4",
+    "completed": false
+  },
+  {
+    "id": 165,
+    "title": "早睡早起",
+    "description": "作息规律的健康生活 —— 坚持早睡早起1年",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "health_5",
+    "completed": false
+  },
+  {
+    "id": 166,
+    "title": "健康饮食",
+    "description": "告别垃圾食品 —— 坚持健康饮食1年",
+    "rarity": "silver",
+    "unlock_rate": 8.0,
+    "icon": "health_6",
+    "completed": false
+  },
+  {
+    "id": 167,
+    "title": "年度体检",
+    "description": "对自己的身体负责 —— 每年定期体检",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "health_7",
+    "completed": false
+  },
+  {
+    "id": 168,
+    "title": "牙齿健康",
+    "description": "一口好牙吃嘛嘛香 —— 牙齿没有任何问题",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "health_8",
+    "completed": false
+  },
+  {
+    "id": 169,
+    "title": "视力保持",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "health_9",
+    "completed": false
+  },
+  {
+    "id": 170,
+    "title": "社交达人",
+    "description": "朋友遍天下 —— 微信好友超过500人",
+    "rarity": "silver",
+    "unlock_rate": 22.0,
+    "icon": "social_0",
+    "completed": false
+  },
+  {
+    "id": 171,
+    "title": "知心好友",
+    "description": "人生得一知己足矣 —— 有3个以上知心朋友",
+    "rarity": "gold",
+    "unlock_rate": 10.0,
+    "icon": "social_1",
+    "completed": false
+  },
+  {
+    "id": 172,
+    "title": "发小情谊",
+    "description": "穿开裆裤时就认识的交情 —— 有20年以上的朋友",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "social_2",
+    "completed": false
+  },
+  {
+    "id": 173,
+    "title": "同学聚会",
+    "description": "青春不散场 —— 组织过同学聚会",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "social_3",
+    "completed": false
+  },
+  {
+    "id": 174,
+    "title": "职场人脉",
+    "description": "多个朋友多条路 —— 职场人脉超过100人",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "social_4",
+    "completed": false
+  },
+  {
+    "id": 175,
+    "title": "社群领袖",
+    "description": "一群人的主心骨 —— 创建并运营过社群",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "social_5",
+    "completed": false
+  },
+  {
+    "id": 176,
+    "title": "公众演讲",
+    "description": "台下百十号人 —— 在100人以上场合演讲",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "social_6",
+    "completed": false
+  },
+  {
+    "id": 177,
+    "title": "网络红人",
+    "description": "有一定的影响力 —— 社交媒体粉丝过万",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "social_7",
+    "completed": false
+  },
+  {
+    "id": 178,
+    "title": "热心助人",
+    "description": "赠人玫瑰手有余香 —— 经常帮助陌生人",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "social_8",
+    "completed": false
+  },
+  {
+    "id": 179,
+    "title": "献血英雄",
+    "description": "热血暖人间 —— 献血超过5次",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "social_9",
+    "completed": false
+  },
+  {
+    "id": 180,
+    "title": "志愿者",
+    "description": "用行动传递爱 —— 累计志愿服务超过100小时",
+    "rarity": "silver",
+    "unlock_rate": 8.0,
+    "icon": "social_0",
+    "completed": false
+  },
+  {
+    "id": 181,
+    "title": "器官捐赠",
+    "description": "延续生命的大爱 —— 签署器官捐赠协议",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "social_1",
+    "completed": false
+  },
+  {
+    "id": 182,
+    "title": "慈善捐款",
+    "description": "尽一份绵薄之力 —— 累计捐款超过1万元",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "social_2",
+    "completed": false
+  },
+  {
+    "id": 183,
+    "title": "收养流浪动物",
+    "description": "给它们一个家 —— 收养过流浪猫狗",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "social_3",
+    "completed": false
+  },
+  {
+    "id": 184,
+    "title": "环保行动者",
+    "description": "守护地球家园 —— 坚持垃圾分类和环保生活",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "social_4",
+    "completed": false
+  },
+  {
+    "id": 185,
+    "title": "月入过万",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "money_5",
+    "completed": false
+  },
+  {
+    "id": 186,
+    "title": "月入三万",
+    "description": "向中产迈进 —— 月薪突破3万元",
+    "rarity": "gold",
+    "unlock_rate": 10.0,
+    "icon": "money_6",
+    "completed": false
+  },
+  {
+    "id": 187,
+    "title": "月入十万",
+    "description": "精英阶层 —— 月薪突破10万元",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "money_7",
+    "completed": false
+  },
+  {
+    "id": 188,
+    "title": "年薪百万",
+    "description": "百万年薪俱乐部 —— 年薪突破百万",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "money_8",
+    "completed": false
+  },
+  {
+    "id": 189,
+    "title": "第一桶金",
+    "description": "人生第一桶金 —— 赚到第一个10万",
+    "rarity": "silver",
+    "unlock_rate": 30.0,
+    "icon": "money_9",
+    "completed": false
+  },
+  {
+    "id": 190,
+    "title": "百万资产",
+    "description": "七位数的里程碑 —— 总资产突破百万",
+    "rarity": "gold",
+    "unlock_rate": 12.0,
+    "icon": "money_0",
+    "completed": false
+  },
+  {
+    "id": 191,
+    "title": "五百万资产",
+    "description": "半千万的门槛 —— 总资产突破500万",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "money_1",
+    "completed": false
+  },
+  {
+    "id": 192,
+    "title": "千万资产",
+    "description": "财富自由的起点 —— 总资产突破千万",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "money_2",
+    "completed": false
+  },
+  {
+    "id": 193,
+    "title": "被动收入",
+    "description": "躺着也能赚钱 —— 被动收入覆盖基本生活",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "money_3",
+    "completed": false
+  },
+  {
+    "id": 194,
+    "title": "财务自由",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "money_4",
+    "completed": false
+  },
+  {
+    "id": 195,
+    "title": "买房无贷",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "money_5",
+    "completed": false
+  },
+  {
+    "id": 196,
+    "title": "买车无贷",
+    "description": "四轮的自由 —— 全款买车",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "money_6",
+    "completed": false
+  },
+  {
+    "id": 197,
+    "title": "存款六位数",
+    "description": "银行里的安全感 —— 存款超过10万",
+    "rarity": "silver",
+    "unlock_rate": 28.0,
+    "icon": "money_7",
+    "completed": false
+  },
+  {
+    "id": 198,
+    "title": "存款七位数",
+    "description": "百万存款俱乐部 —— 存款超过100万",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "money_8",
+    "completed": false
+  },
+  {
+    "id": 199,
+    "title": "投资理财",
+    "description": "让钱生钱 —— 投资年化收益率超过10%",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "money_9",
+    "completed": false
+  },
+  {
+    "id": 200,
+    "title": "找到热爱",
+    "description": "眼里有光的感觉 —— 找到真正热爱的事情",
+    "rarity": "gold",
+    "unlock_rate": 15.0,
+    "icon": "spirit_0",
+    "completed": false
+  },
+  {
+    "id": 201,
+    "title": "人生目标",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 12.0,
+    "icon": "spirit_1",
+    "completed": false
+  },
+  {
+    "id": 202,
+    "title": "自我接纳",
+    "description": "和不完美的自己和解 —— 完全接纳自己",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "spirit_2",
+    "completed": false
+  },
+  {
+    "id": 203,
+    "title": "情绪自由",
+    "description": "不被情绪牵着走 —— 能够掌控自己的情绪",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "spirit_3",
+    "completed": false
+  },
+  {
+    "id": 204,
+    "title": "活在当下",
+    "description": "不念过往不畏将来 —— 享受当下每一刻",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "spirit_4",
+    "completed": false
+  },
+  {
+    "id": 205,
+    "title": "内心强大",
+    "description": "百毒不侵的内心 —— 面对挫折不气馁",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "spirit_5",
+    "completed": false
+  },
+  {
+    "id": 206,
+    "title": "独立思考",
+    "description": "不随波逐流 —— 有独立思考的能力",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "spirit_6",
+    "completed": false
+  },
+  {
+    "id": 207,
+    "title": "终身学习",
+    "description": "活到老学到老 —— 保持学习的习惯",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "spirit_7",
+    "completed": false
+  },
+  {
+    "id": 208,
+    "title": "认知升级",
+    "description": "原来还可以这样 —— 认知维度提升",
+    "rarity": "gold",
+    "unlock_rate": 7.0,
+    "icon": "spirit_8",
+    "completed": false
+  },
+  {
+    "id": 209,
+    "title": "开悟时刻",
+    "description": "醍醐灌顶的瞬间 —— 想通了困扰已久的问题",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "spirit_9",
+    "completed": false
+  },
+  {
+    "id": 210,
+    "title": "冥想觉醒",
+    "description": "内观自己的内心 —— 冥想中体验到深度平静",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "spirit_0",
+    "completed": false
+  },
+  {
+    "id": 211,
+    "title": "信仰之路",
+    "description": "心灵的归宿 —— 找到精神信仰",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "spirit_1",
+    "completed": false
+  },
+  {
+    "id": 212,
+    "title": "感恩之心",
+    "description": "感谢生命中的一切 —— 每天心怀感恩",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "spirit_2",
+    "completed": false
+  },
+  {
+    "id": 213,
+    "title": "慈悲为怀",
+    "description": "对万物怀有怜悯之心 —— 内心充满慈悲",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "spirit_3",
+    "completed": false
+  },
+  {
+    "id": 214,
+    "title": "大彻大悟",
+    "description": "看透人生真相 —— 达到觉悟境界",
+    "rarity": "gold",
+    "unlock_rate": 0.3,
+    "icon": "spirit_4",
+    "completed": false
+  },
+  {
+    "id": 215,
+    "title": "第一次心动",
+    "description": "懵懂年华里的心跳加速 —— 人生第一次喜欢上一个人",
+    "rarity": "silver",
+    "unlock_rate": 65.0,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 216,
+    "title": "第一次告白",
+    "description": "鼓起勇气说出口 —— 人生第一次向人表白",
+    "rarity": "silver",
+    "unlock_rate": 45.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 217,
+    "title": "第一次失恋",
+    "description": "心碎的感觉 —— 人生第一次失恋",
+    "rarity": "silver",
+    "unlock_rate": 55.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 218,
+    "title": "第一次打工",
+    "description": "用劳动换取报酬 —— 人生第一次兼职打工",
+    "rarity": "silver",
+    "unlock_rate": 50.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 219,
+    "title": "第一次独立旅行",
+    "description": "一个人的冒险 —— 独自旅行超过7天",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 220,
+    "title": "第一次看海",
+    "description": "面朝大海春暖花开 —— 第一次看到大海",
+    "rarity": "silver",
+    "unlock_rate": 40.0,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 221,
+    "title": "第一次看雪",
+    "description": "银装素裹的世界 —— 第一次看到大雪",
+    "rarity": "silver",
+    "unlock_rate": 35.0,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 222,
+    "title": "第一次坐飞机",
+    "description": "冲上云霄的体验 —— 第一次乘坐飞机",
+    "rarity": "silver",
+    "unlock_rate": 30.0,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 223,
+    "title": "第一次住酒店",
+    "description": "旅途的栖身之所 —— 第一次住高档酒店",
+    "rarity": "silver",
+    "unlock_rate": 28.0,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 224,
+    "title": "第一次看演唱会",
+    "description": "现场的震撼 —— 第一次看演唱会",
+    "rarity": "silver",
+    "unlock_rate": 22.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 225,
+    "title": "第一次坐火车",
+    "description": "绿皮车的记忆 —— 第一次坐长途火车",
+    "rarity": "silver",
+    "unlock_rate": 60.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 226,
+    "title": "第一次坐船",
+    "description": "水上的旅程 —— 第一次坐轮船",
+    "rarity": "silver",
+    "unlock_rate": 32.0,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 227,
+    "title": "第一次看电影",
+    "description": "大银幕的魅力 —— 第一次去电影院",
+    "rarity": "silver",
+    "unlock_rate": 80.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 228,
+    "title": "第一次去游乐园",
+    "description": "童话般的一天 —— 第一次去大型游乐园",
+    "rarity": "silver",
+    "unlock_rate": 48.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 229,
+    "title": "第一次去动物园",
+    "description": "与动物的亲密接触 —— 第一次去动物园",
+    "rarity": "silver",
+    "unlock_rate": 70.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 230,
+    "title": "面试成功",
+    "description": "从众多竞争者中脱颖而出 —— 第一次面试成功",
+    "rarity": "silver",
+    "unlock_rate": 70.0,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 231,
+    "title": "项目上线",
+    "description": "熬夜换来的成果 —— 负责的项目成功上线",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 232,
+    "title": "客户表扬",
+    "description": "努力被认可 —— 收到客户的正式表扬",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 233,
+    "title": "年度优秀",
+    "description": "一年的付出得到回报 —— 获得年度优秀员工",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 234,
+    "title": "团队建设",
+    "description": "凝聚力的提升 —— 成功组织团建活动",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 235,
+    "title": "技术突破",
+    "description": "攻克技术难题 —— 解决了一个长期存在的技术问题",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 236,
+    "title": "专利申请",
+    "description": "创新的证明 —— 申请成功一项专利",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 237,
+    "title": "论文发表",
+    "description": "学术的认可 —— 在期刊上发表论文",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 238,
+    "title": "行业会议",
+    "description": "站上更大的舞台 —— 在行业会议上发言",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 239,
+    "title": "合作伙伴",
+    "description": "强强联合 —— 促成重要合作",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 240,
+    "title": "危机处理",
+    "description": "力挽狂澜 —— 成功处理一次重大危机",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 241,
+    "title": "培训讲师",
+    "description": "知识的传递 —— 担任内部培训讲师",
+    "rarity": "silver",
+    "unlock_rate": 8.0,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 242,
+    "title": "海外出差",
+    "description": "跨国工作体验 —— 有过海外出差经历",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 243,
+    "title": "创业失败",
+    "description": "宝贵的经验 —— 有过创业失败经历",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 244,
+    "title": "东山再起",
+    "description": "跌倒了再爬起来 —— 失败后重新站起来",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 245,
+    "title": "克服恐惧",
+    "description": "勇敢面对 —— 克服了内心的恐惧",
+    "rarity": "gold",
+    "unlock_rate": 10.0,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 246,
+    "title": "改掉坏习惯",
+    "description": "战胜自己 —— 成功改掉一个坏习惯",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 247,
+    "title": "养成好习惯",
+    "description": "21天的奇迹 —— 坚持一个习惯超过100天",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 248,
+    "title": "学会拒绝",
+    "description": "说不的勇气 —— 学会拒绝不合理的要求",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 249,
+    "title": "学会道歉",
+    "description": "成长的必修课 —— 真诚地向他人道歉",
+    "rarity": "silver",
+    "unlock_rate": 35.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 250,
+    "title": "学会原谅",
+    "description": "放下心中的包袱 —— 原谅曾经伤害过你的人",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 251,
+    "title": "独处不孤独",
+    "description": "享受一个人的时光 —— 习惯并享受独处",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 252,
+    "title": "公开表达",
+    "description": "不再害怕发言 —— 能够在公众场合自如表达",
+    "rarity": "silver",
+    "unlock_rate": 14.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 253,
+    "title": "时间管理",
+    "description": "高效利用每一分钟 —— 学会时间管理",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 254,
+    "title": "情绪管理",
+    "description": "不被情绪左右 —— 学会控制情绪",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 255,
+    "title": "压力管理",
+    "description": "化压力为动力 —— 学会有效应对压力",
+    "rarity": "silver",
+    "unlock_rate": 11.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 256,
+    "title": "沟通能力",
+    "description": "表达清晰有条理 —— 沟通能力显著提升",
+    "rarity": "silver",
+    "unlock_rate": 13.0,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 257,
+    "title": "领导力提升",
+    "description": "带领团队前进 —— 领导力得到认可",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 258,
+    "title": "创造力爆发",
+    "description": "灵感源源不断 —— 有过创意大爆发的时期",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 259,
+    "title": "专注力训练",
+    "description": "心流的体验 —— 能够长时间专注做一件事",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 260,
+    "title": "人生目标·进阶版",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 261,
+    "title": "学会品茶·传说版",
+    "description": "一杯清茶，半日悠闲 —— 懂得品茶",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 262,
+    "title": "学会乐器·大师版",
+    "description": "指尖流淌出旋律 —— 学会一种乐器",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 263,
+    "title": "信仰之路·突破",
+    "description": "心灵的归宿 —— 找到精神信仰",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 264,
+    "title": "千万富翁·重温",
+    "description": "一个小目标 —— 个人资产突破千万",
+    "rarity": "silver",
+    "unlock_rate": 1.8,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 265,
+    "title": "心动瞬间·大师版",
+    "description": "人群中多看了一眼，心跳漏了一拍 —— 对某人一见钟情",
+    "rarity": "gold",
+    "unlock_rate": 7.0,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 266,
+    "title": "蓉城时光·突破",
+    "description": "宽窄巷子的悠闲午后 —— 去过成都",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 267,
+    "title": "月入过万·突破",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 268,
+    "title": "日本之行·突破",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 269,
+    "title": "调酒师·坚持",
+    "description": "鸡尾酒的缤纷世界 —— 会调10种以上鸡尾酒",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 270,
+    "title": "第一桶金·进阶版",
+    "description": "人生第一桶金 —— 赚到第一个10万",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 271,
+    "title": "学会乐器·重温",
+    "description": "指尖流淌出旋律 —— 学会一种乐器",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 272,
+    "title": "孩子上学·精英版",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 273,
+    "title": "欧洲之旅·再次",
+    "description": "浪漫的巴黎铁塔 —— 去过欧洲",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 274,
+    "title": "首次加薪·重温",
+    "description": "努力被看见，数字在跳动 —— 第一次涨工资",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 275,
+    "title": "跳槽成功·再次",
+    "description": "人往高处走 —— 成功跳槽到更好的平台",
+    "rarity": "copper",
+    "unlock_rate": 52.5,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 276,
+    "title": "第一桶金·进阶版",
+    "description": "人生第一桶金 —— 赚到第一个10万",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 277,
+    "title": "太极高手·大师版",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 278,
+    "title": "烘焙达人·突破",
+    "description": "烤箱里飘出的香甜 —— 学会烘焙",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 279,
+    "title": "冲浪达人·超越",
+    "description": "乘风破浪的感觉 —— 学会冲浪",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 280,
+    "title": "全家福·传说版",
+    "description": "一年一度的团圆 —— 每年拍全家福",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 281,
+    "title": "初入职场·传说版",
+    "description": "拿着简历，忐忑推开第一扇门 —— 找到第一份工作",
+    "rarity": "gold",
+    "unlock_rate": 17.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 282,
+    "title": "养宠物·传说版",
+    "description": "毛茸茸的家人 —— 养过一只宠物",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 283,
+    "title": "创业启航·至尊版",
+    "description": "按下启动键，一切从零开始 —— 创办自己的事业",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 284,
+    "title": "早睡早起·再次",
+    "description": "作息规律的健康生活 —— 坚持早睡早起1年",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 285,
+    "title": "第一份工资·再次",
+    "description": "用自己的双手赚到钱 —— 领取第一份薪水",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 286,
+    "title": "宝岛台湾·至尊版",
+    "description": "阿里山的姑娘 —— 去过台湾",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 287,
+    "title": "冥想觉醒·大师版",
+    "description": "内观自己的内心 —— 冥想中体验到深度平静",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 288,
+    "title": "买房无贷·精英版",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 289,
+    "title": "器官捐赠·传说版",
+    "description": "延续生命的大爱 —— 签署器官捐赠协议",
+    "rarity": "gold",
+    "unlock_rate": 0.2,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 290,
+    "title": "买房置业·重温",
+    "description": "万家灯火，终于有一盏为我而亮 —— 购置房产",
+    "rarity": "silver",
+    "unlock_rate": 22.5,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 291,
+    "title": "登山登顶·突破",
+    "description": "会当凌绝顶 —— 登顶过一座名山",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 292,
+    "title": "宝岛台湾·再次",
+    "description": "阿里山的姑娘 —— 去过台湾",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 293,
+    "title": "告白成功·进阶版",
+    "description": "酝酿已久的话说出口，等来一句我也是 —— 表白被接受",
+    "rarity": "gold",
+    "unlock_rate": 7.5,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 294,
+    "title": "孩子结婚·至尊版",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 295,
+    "title": "独当一面·超越",
+    "description": "从执行者到决策者 —— 独立负责一个项目",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 296,
+    "title": "孩子第一声爸妈·坚持",
+    "description": "那一刻心都化了 —— 听到孩子第一次叫爸妈",
+    "rarity": "silver",
+    "unlock_rate": 24.0,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 297,
+    "title": "记忆大师·坚持",
+    "description": "过目不忘的本领 —— 拥有超强记忆力",
+    "rarity": "silver",
+    "unlock_rate": 1.5,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 298,
+    "title": "毕业答辩·精英版",
+    "description": "为学生时代画上句点 —— 顺利毕业",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 299,
+    "title": "日本之行·突破",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 300,
+    "title": "职场人脉·超越",
+    "description": "多个朋友多条路 —— 职场人脉超过100人",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 301,
+    "title": "记忆大师·超越",
+    "description": "过目不忘的本领 —— 拥有超强记忆力",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 302,
+    "title": "视频剪辑·传说版",
+    "description": "剪出精彩人生 —— 熟练使用剪辑软件",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 303,
+    "title": "装修新家·坚持",
+    "description": "亲手打造理想中的家 —— 完成房屋装修",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 304,
+    "title": "技能精通·进阶版",
+    "description": "十年磨一剑 —— 在某领域深耕超过10年",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 305,
+    "title": "升职记·精英版",
+    "description": "肩膀上的担子重了，视野也开阔了 —— 第一次升职",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 306,
+    "title": "独立思考·超越",
+    "description": "不随波逐流 —— 有独立思考的能力",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 307,
+    "title": "创业启航·重温",
+    "description": "按下启动键，一切从零开始 —— 创办自己的事业",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 308,
+    "title": "千万资产·突破",
+    "description": "财富自由的起点 —— 总资产突破千万",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 309,
+    "title": "音乐节狂欢·进阶版",
+    "description": "草地上的青春 —— 参加过音乐节",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 310,
+    "title": "信仰之路·大师版",
+    "description": "心灵的归宿 —— 找到精神信仰",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 311,
+    "title": "大彻大悟·突破",
+    "description": "看透人生真相 —— 达到觉悟境界",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 312,
+    "title": "滑雪初体验·再次",
+    "description": "雪道上的飞驰 —— 学会滑雪",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 313,
+    "title": "行业认可·重温",
+    "description": "名字出现在行业榜单上 —— 获得专业奖项",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 314,
+    "title": "买房置业·进阶版",
+    "description": "万家灯火，终于有一盏为我而亮 —— 购置房产",
+    "rarity": "gold",
+    "unlock_rate": 7.5,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 315,
+    "title": "音乐节狂欢·精英版",
+    "description": "草地上的青春 —— 参加过音乐节",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 316,
+    "title": "环保行动者·大师版",
+    "description": "守护地球家园 —— 坚持垃圾分类和环保生活",
+    "rarity": "gold",
+    "unlock_rate": 1.4,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 317,
+    "title": "活在当下·突破",
+    "description": "不念过往不畏将来 —— 享受当下每一刻",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 318,
+    "title": "年薪百万·精英版",
+    "description": "百万年薪俱乐部 —— 年薪突破百万",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 319,
+    "title": "手足情深·精英版",
+    "description": "一生的兄弟姐妹 —— 和兄弟姐妹关系亲密",
+    "rarity": "silver",
+    "unlock_rate": 17.5,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 320,
+    "title": "慈善捐款·突破",
+    "description": "尽一份绵薄之力 —— 累计捐款超过1万元",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 321,
+    "title": "新婚燕尔·再次",
+    "description": "执子之手，与子偕老 —— 步入婚姻殿堂",
+    "rarity": "silver",
+    "unlock_rate": 10.5,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 322,
+    "title": "戒烟成功·大师版",
+    "description": "和尼古丁说再见 —— 成功戒烟超过1年",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 323,
+    "title": "家族聚会·至尊版",
+    "description": "四世同堂的温馨 —— 举办过大型家族聚会",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 324,
+    "title": "北京打卡·传说版",
+    "description": "天安门广场上的红旗 —— 去过北京",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 325,
+    "title": "月入三万·大师版",
+    "description": "向中产迈进 —— 月薪突破3万元",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 326,
+    "title": "牙齿健康·大师版",
+    "description": "一口好牙吃嘛嘛香 —— 牙齿没有任何问题",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 327,
+    "title": "慈善捐款·精英版",
+    "description": "尽一份绵薄之力 —— 累计捐款超过1万元",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 328,
+    "title": "学会做饭·坚持",
+    "description": "从泡面到满汉全席 —— 学会做10道以上家常菜",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 329,
+    "title": "发小情谊·至尊版",
+    "description": "穿开裆裤时就认识的交情 —— 有20年以上的朋友",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 330,
+    "title": "收养流浪动物·超越",
+    "description": "给它们一个家 —— 收养过流浪猫狗",
+    "rarity": "silver",
+    "unlock_rate": 2.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 331,
+    "title": "调酒师·突破",
+    "description": "鸡尾酒的缤纷世界 —— 会调10种以上鸡尾酒",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 332,
+    "title": "日本之行·至尊版",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 333,
+    "title": "舞蹈达人·再次",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "copper",
+    "unlock_rate": 10.5,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 334,
+    "title": "视力保持·突破",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 335,
+    "title": "戒酒成功·传说版",
+    "description": "清醒的人生更精彩 —— 成功戒酒",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 336,
+    "title": "上海印象·再次",
+    "description": "外滩的霓虹闪烁 —— 去过上海",
+    "rarity": "copper",
+    "unlock_rate": 42.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 337,
+    "title": "新婚燕尔·突破",
+    "description": "执子之手，与子偕老 —— 步入婚姻殿堂",
+    "rarity": "gold",
+    "unlock_rate": 3.5,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 338,
+    "title": "东方之珠·传说版",
+    "description": "维多利亚港的夜景 —— 去过香港",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 339,
+    "title": "初次牵手·进阶版",
+    "description": "手心冒汗，指尖相触的那一刻全世界都安静了 —— 第一次牵起心爱之人的手",
+    "rarity": "silver",
+    "unlock_rate": 21.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 340,
+    "title": "上海印象·进阶版",
+    "description": "外滩的霓虹闪烁 —— 去过上海",
+    "rarity": "silver",
+    "unlock_rate": 14.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 341,
+    "title": "新手奶爸·突破",
+    "description": "换尿布的手忙脚乱 —— 成为父亲",
+    "rarity": "gold",
+    "unlock_rate": 9.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 342,
+    "title": "雪域高原·坚持",
+    "description": "离天空最近的地方 —— 去过西藏",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 343,
+    "title": "山城雾都·精英版",
+    "description": "洪崖洞的魔幻夜景 —— 去过重庆",
+    "rarity": "silver",
+    "unlock_rate": 11.0,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 344,
+    "title": "财务自由·坚持",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "silver",
+    "unlock_rate": 1.2,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 345,
+    "title": "欧洲之旅·坚持",
+    "description": "浪漫的巴黎铁塔 —— 去过欧洲",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 346,
+    "title": "调酒师·大师版",
+    "description": "鸡尾酒的缤纷世界 —— 会调10种以上鸡尾酒",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 347,
+    "title": "财富自由·重温",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 348,
+    "title": "孩子结婚·重温",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 349,
+    "title": "牙齿健康·进阶版",
+    "description": "一口好牙吃嘛嘛香 —— 牙齿没有任何问题",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 350,
+    "title": "冥想觉醒·大师版",
+    "description": "内观自己的内心 —— 冥想中体验到深度平静",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 351,
+    "title": "异地坚守·再次",
+    "description": "距离没有打败爱情 —— 异地恋超过1年",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 352,
+    "title": "独当一面·传说版",
+    "description": "从执行者到决策者 —— 独立负责一个项目",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 353,
+    "title": "山城雾都·坚持",
+    "description": "洪崖洞的魔幻夜景 —— 去过重庆",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 354,
+    "title": "第一次租房·精英版",
+    "description": "属于自己的小天地 —— 第一次独立租房",
+    "rarity": "silver",
+    "unlock_rate": 37.5,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 355,
+    "title": "演唱会现场·传说版",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 356,
+    "title": "第一桶金·突破",
+    "description": "账户上的数字第一次突破想象 —— 赚到人生第一个10万",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 357,
+    "title": "初入职场·突破",
+    "description": "拿着简历，忐忑推开第一扇门 —— 找到第一份工作",
+    "rarity": "silver",
+    "unlock_rate": 42.5,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 358,
+    "title": "初次牵手·传说版",
+    "description": "手心冒汗，指尖相触的那一刻全世界都安静了 —— 第一次牵起心爱之人的手",
+    "rarity": "gold",
+    "unlock_rate": 8.4,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 359,
+    "title": "第一次租房·坚持",
+    "description": "属于自己的小天地 —— 第一次独立租房",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 360,
+    "title": "健身增肌·重温",
+    "description": "穿衣显瘦脱衣有肉 —— 坚持健身1年以上",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 361,
+    "title": "初吻·重温",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "silver",
+    "unlock_rate": 42.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 362,
+    "title": "异地坚守·至尊版",
+    "description": "距离没有打败爱情 —— 异地恋超过1年",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 363,
+    "title": "马拉松完赛·重温",
+    "description": "42.195公里的坚持 —— 跑完马拉松全程",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 364,
+    "title": "志愿者·坚持",
+    "description": "用行动传递爱 —— 累计志愿服务超过100小时",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 365,
+    "title": "大学录取·至尊版",
+    "description": "十年寒窗，换来一纸通知书 —— 考上大学",
+    "rarity": "gold",
+    "unlock_rate": 9.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 366,
+    "title": "北京打卡·超越",
+    "description": "天安门广场上的红旗 —— 去过北京",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 367,
+    "title": "社交达人·再次",
+    "description": "朋友遍天下 —— 微信好友超过500人",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 368,
+    "title": "心动瞬间·超越",
+    "description": "人群中多看了一眼，心跳漏了一拍 —— 对某人一见钟情",
+    "rarity": "silver",
+    "unlock_rate": 17.5,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 369,
+    "title": "太极高手·突破",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "silver",
+    "unlock_rate": 1.5,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 370,
+    "title": "学会骑车·突破",
+    "description": "风在耳边呼啸，我学会了平衡 —— 学会骑自行车",
+    "rarity": "silver",
+    "unlock_rate": 45.0,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 371,
+    "title": "导师之路·精英版",
+    "description": "把经验传递下去 —— 带过3个以上徒弟",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 372,
+    "title": "千万富翁·大师版",
+    "description": "一个小目标 —— 个人资产突破千万",
+    "rarity": "gold",
+    "unlock_rate": 0.2,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 373,
+    "title": "慈悲为怀·传说版",
+    "description": "对万物怀有怜悯之心 —— 内心充满慈悲",
+    "rarity": "gold",
+    "unlock_rate": 0.4,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 374,
+    "title": "烘焙达人·超越",
+    "description": "烤箱里飘出的香甜 —— 学会烘焙",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 375,
+    "title": "东方之珠·超越",
+    "description": "维多利亚港的夜景 —— 去过香港",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 376,
+    "title": "新婚燕尔·大师版",
+    "description": "执子之手，与子偕老 —— 步入婚姻殿堂",
+    "rarity": "gold",
+    "unlock_rate": 1.4,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 377,
+    "title": "舞蹈达人·超越",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "silver",
+    "unlock_rate": 3.5,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 378,
+    "title": "被动收入·再次",
+    "description": "躺着也能赚钱 —— 被动收入覆盖基本生活",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 379,
+    "title": "学会品茶·再次",
+    "description": "一杯清茶，半日悠闲 —— 懂得品茶",
+    "rarity": "copper",
+    "unlock_rate": 30.0,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 380,
+    "title": "雪域高原·重温",
+    "description": "离天空最近的地方 —— 去过西藏",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 381,
+    "title": "学会做饭·至尊版",
+    "description": "从泡面到满汉全席 —— 学会做10道以上家常菜",
+    "rarity": "gold",
+    "unlock_rate": 10.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 382,
+    "title": "百公里徒步·大师版",
+    "description": "用脚步丈量大地 —— 完成百公里徒步",
+    "rarity": "gold",
+    "unlock_rate": 0.3,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 383,
+    "title": "父母认可·超越",
+    "description": "带你见我家长 —— 获得双方父母祝福",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 384,
+    "title": "月入三万·大师版",
+    "description": "向中产迈进 —— 月薪突破3万元",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 385,
+    "title": "同学聚会·突破",
+    "description": "青春不散场 —— 组织过同学聚会",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 386,
+    "title": "种花养花·再次",
+    "description": "阳台上的小花园 —— 成功养活过植物",
+    "rarity": "copper",
+    "unlock_rate": 52.5,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 387,
+    "title": "行业大牛·传说版",
+    "description": "一提及你的名字，业内都知道 —— 成为行业知名人物",
+    "rarity": "gold",
+    "unlock_rate": 0.4,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 388,
+    "title": "孩子上学·精英版",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 389,
+    "title": "牙齿健康·突破",
+    "description": "一口好牙吃嘛嘛香 —— 牙齿没有任何问题",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 390,
+    "title": "蹦极挑战·突破",
+    "description": "纵身一跃的勇气 —— 玩过蹦极",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 391,
+    "title": "纸婚之喜·突破",
+    "description": "第一年，一切都是新的 —— 结婚一周年",
+    "rarity": "silver",
+    "unlock_rate": 3.2,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 392,
+    "title": "登山登顶·大师版",
+    "description": "会当凌绝顶 —— 登顶过一座名山",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 393,
+    "title": "毕业答辩·大师版",
+    "description": "为学生时代画上句点 —— 顺利毕业",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 394,
+    "title": "退休提前·突破",
+    "description": "提前下车，去看世界 —— 40岁前退休",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 395,
+    "title": "毕业答辩·至尊版",
+    "description": "为学生时代画上句点 —— 顺利毕业",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 396,
+    "title": "年薪百万·再次",
+    "description": "百万年薪俱乐部 —— 年薪突破百万",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 397,
+    "title": "宝岛台湾·至尊版",
+    "description": "阿里山的姑娘 —— 去过台湾",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 398,
+    "title": "网络红人·至尊版",
+    "description": "有一定的影响力 —— 社交媒体粉丝过万",
+    "rarity": "gold",
+    "unlock_rate": 0.4,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 399,
+    "title": "初次牵手·重温",
+    "description": "手心冒汗，指尖相触的那一刻全世界都安静了 —— 第一次牵起心爱之人的手",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 400,
+    "title": "生日派对·进阶版",
+    "description": "蜡烛前的许愿 —— 办过一次大型生日聚会",
+    "rarity": "silver",
+    "unlock_rate": 22.5,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 401,
+    "title": "手足情深·精英版",
+    "description": "一生的兄弟姐妹 —— 和兄弟姐妹关系亲密",
+    "rarity": "silver",
+    "unlock_rate": 17.5,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 402,
+    "title": "活在当下·精英版",
+    "description": "不念过往不畏将来 —— 享受当下每一刻",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 403,
+    "title": "太极高手·重温",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "copper",
+    "unlock_rate": 4.5,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 404,
+    "title": "社交达人·大师版",
+    "description": "朋友遍天下 —— 微信好友超过500人",
+    "rarity": "gold",
+    "unlock_rate": 4.4,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 405,
+    "title": "行业大牛·精英版",
+    "description": "一提及你的名字，业内都知道 —— 成为行业知名人物",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 406,
+    "title": "社交达人·再次",
+    "description": "朋友遍天下 —— 微信好友超过500人",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 407,
+    "title": "被动收入·精英版",
+    "description": "躺着也能赚钱 —— 被动收入覆盖基本生活",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 408,
+    "title": "咖啡师·进阶版",
+    "description": "拉花是一门艺术 —— 会做花式咖啡",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 409,
+    "title": "观影百部·进阶版",
+    "description": "一年看过100部电影 —— 年度观影量超100",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 410,
+    "title": "孩子第一声爸妈·传说版",
+    "description": "那一刻心都化了 —— 听到孩子第一次叫爸妈",
+    "rarity": "gold",
+    "unlock_rate": 3.2,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 411,
+    "title": "人生目标·再次",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 412,
+    "title": "环保行动者·重温",
+    "description": "守护地球家园 —— 坚持垃圾分类和环保生活",
+    "rarity": "copper",
+    "unlock_rate": 10.5,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 413,
+    "title": "买车无贷·精英版",
+    "description": "四轮的自由 —— 全款买车",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 414,
+    "title": "美洲探索·精英版",
+    "description": "自由女神像前留影 —— 去过美国",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 415,
+    "title": "学会一门外语·重温",
+    "description": "推开另一扇文化的门 —— 熟练掌握一门外语",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 416,
+    "title": "初吻·再次",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "silver",
+    "unlock_rate": 42.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 417,
+    "title": "谈判专家·传说版",
+    "description": "谈笑间达成共识 —— 谈判能力出众",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 418,
+    "title": "种花养花·大师版",
+    "description": "阳台上的小花园 —— 成功养活过植物",
+    "rarity": "gold",
+    "unlock_rate": 7.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 419,
+    "title": "领导才能·进阶版",
+    "description": "一呼百应的魅力 —— 带领过10人以上团队",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 420,
+    "title": "健身增肌·传说版",
+    "description": "穿衣显瘦脱衣有肉 —— 坚持健身1年以上",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 421,
+    "title": "百公里徒步·至尊版",
+    "description": "用脚步丈量大地 —— 完成百公里徒步",
+    "rarity": "gold",
+    "unlock_rate": 0.3,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 422,
+    "title": "蓉城时光·进阶版",
+    "description": "宽窄巷子的悠闲午后 —— 去过成都",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 423,
+    "title": "情绪自由·重温",
+    "description": "不被情绪牵着走 —— 能够掌控自己的情绪",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 424,
+    "title": "孩子上学·大师版",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "gold",
+    "unlock_rate": 2.8,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 425,
+    "title": "观影百部·突破",
+    "description": "一年看过100部电影 —— 年度观影量超100",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 426,
+    "title": "舞蹈达人·突破",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "silver",
+    "unlock_rate": 3.5,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 427,
+    "title": "为人父母·大师版",
+    "description": "迎接新生命的到来 —— 有了自己的孩子",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 428,
+    "title": "种花养花·超越",
+    "description": "阳台上的小花园 —— 成功养活过植物",
+    "rarity": "silver",
+    "unlock_rate": 17.5,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 429,
+    "title": "生日派对·大师版",
+    "description": "蜡烛前的许愿 —— 办过一次大型生日聚会",
+    "rarity": "gold",
+    "unlock_rate": 9.0,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 430,
+    "title": "五百万资产·再次",
+    "description": "半千万的门槛 —— 总资产突破500万",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 431,
+    "title": "孩子结婚·超越",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 432,
+    "title": "知心好友·重温",
+    "description": "人生得一知己足矣 —— 有3个以上知心朋友",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 433,
+    "title": "年薪百万·至尊版",
+    "description": "百万年薪俱乐部 —— 年薪突破百万",
+    "rarity": "gold",
+    "unlock_rate": 0.3,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 434,
+    "title": "锡婚之约·重温",
+    "description": "十年光阴，韧如锡器 —— 结婚十周年",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 435,
+    "title": "求婚成功·突破",
+    "description": "单膝跪地，说出那句嫁给我 —— 求婚成功",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 436,
+    "title": "信仰之路·传说版",
+    "description": "心灵的归宿 —— 找到精神信仰",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 437,
+    "title": "孩子结婚·大师版",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 438,
+    "title": "大彻大悟·再次",
+    "description": "看透人生真相 —— 达到觉悟境界",
+    "rarity": "silver",
+    "unlock_rate": 0.4,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 439,
+    "title": "百万资产·大师版",
+    "description": "七位数的里程碑 —— 总资产突破百万",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 440,
+    "title": "音乐节狂欢·至尊版",
+    "description": "草地上的青春 —— 参加过音乐节",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 441,
+    "title": "独立思考·再次",
+    "description": "不随波逐流 —— 有独立思考的能力",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 442,
+    "title": "演讲高手·至尊版",
+    "description": "聚光灯下的从容 —— 公开演讲不怯场",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 443,
+    "title": "发小情谊·传说版",
+    "description": "穿开裆裤时就认识的交情 —— 有20年以上的朋友",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 444,
+    "title": "舞蹈达人·重温",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "copper",
+    "unlock_rate": 10.5,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 445,
+    "title": "信仰之路·精英版",
+    "description": "心灵的归宿 —— 找到精神信仰",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 446,
+    "title": "财务自由·至尊版",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "gold",
+    "unlock_rate": 0.2,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 447,
+    "title": "绘画精通·进阶版",
+    "description": "妙笔生花 —— 绘画达到专业水平",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 448,
+    "title": "咖啡品鉴师·传说版",
+    "description": "从速溶到手冲 —— 懂得品鉴咖啡",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 449,
+    "title": "谈判专家·超越",
+    "description": "谈笑间达成共识 —— 谈判能力出众",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 450,
+    "title": "买房无贷·再次",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 451,
+    "title": "瑜伽大师·坚持",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "copper",
+    "unlock_rate": 6.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 452,
+    "title": "情绪自由·突破",
+    "description": "不被情绪牵着走 —— 能够掌控自己的情绪",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 453,
+    "title": "年度体检·精英版",
+    "description": "对自己的身体负责 —— 每年定期体检",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 454,
+    "title": "人生目标·至尊版",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 455,
+    "title": "志愿者·超越",
+    "description": "用行动传递爱 —— 累计志愿服务超过100小时",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 456,
+    "title": "新手奶爸·传说版",
+    "description": "换尿布的手忙脚乱 —— 成为父亲",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 457,
+    "title": "活在当下·传说版",
+    "description": "不念过往不畏将来 —— 享受当下每一刻",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 458,
+    "title": "西湖漫步·进阶版",
+    "description": "欲把西湖比西子 —— 去过杭州",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 459,
+    "title": "告白成功·坚持",
+    "description": "酝酿已久的话说出口，等来一句我也是 —— 表白被接受",
+    "rarity": "silver",
+    "unlock_rate": 22.5,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 460,
+    "title": "存款七位数·大师版",
+    "description": "百万存款俱乐部 —— 存款超过100万",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 461,
+    "title": "铁人三项·超越",
+    "description": "极限挑战自我 —— 完成铁人三项",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 462,
+    "title": "日本之行·重温",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 463,
+    "title": "铁人三项·传说版",
+    "description": "极限挑战自我 —— 完成铁人三项",
+    "rarity": "gold",
+    "unlock_rate": 0.1,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 464,
+    "title": "学会做饭·进阶版",
+    "description": "从泡面到满汉全席 —— 学会做10道以上家常菜",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 465,
+    "title": "技能精通·重温",
+    "description": "十年磨一剑 —— 在某领域深耕超过10年",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 466,
+    "title": "西湖漫步·突破",
+    "description": "欲把西湖比西子 —— 去过杭州",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 467,
+    "title": "戒烟成功·突破",
+    "description": "和尼古丁说再见 —— 成功戒烟超过1年",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 468,
+    "title": "环游世界·大师版",
+    "description": "地球那么大，我想去看看 —— 去过20个以上国家",
+    "rarity": "gold",
+    "unlock_rate": 0.1,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 469,
+    "title": "减肥成功·坚持",
+    "description": "遇见更好的自己 —— 减重20斤以上",
+    "rarity": "copper",
+    "unlock_rate": 27.0,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 470,
+    "title": "认知升级·突破",
+    "description": "原来还可以这样 —— 认知维度提升",
+    "rarity": "gold",
+    "unlock_rate": 3.5,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 471,
+    "title": "百万资产·坚持",
+    "description": "七位数的里程碑 —— 总资产突破百万",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 472,
+    "title": "存款七位数·突破",
+    "description": "百万存款俱乐部 —— 存款超过100万",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 473,
+    "title": "领导才能·突破",
+    "description": "一呼百应的魅力 —— 带领过10人以上团队",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 474,
+    "title": "视力保持·精英版",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 475,
+    "title": "瑜伽大师·至尊版",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 476,
+    "title": "美洲探索·至尊版",
+    "description": "自由女神像前留影 —— 去过美国",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 477,
+    "title": "网络红人·传说版",
+    "description": "有一定的影响力 —— 社交媒体粉丝过万",
+    "rarity": "gold",
+    "unlock_rate": 0.4,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 478,
+    "title": "演唱会现场·大师版",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 479,
+    "title": "学会品茶·至尊版",
+    "description": "一杯清茶，半日悠闲 —— 懂得品茶",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 480,
+    "title": "孩子毕业·突破",
+    "description": "看着你长大成人 —— 孩子大学毕业",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 481,
+    "title": "升职记·精英版",
+    "description": "肩膀上的担子重了，视野也开阔了 —— 第一次升职",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 482,
+    "title": "塞外风光·精英版",
+    "description": "大漠孤烟直 —— 去过新疆",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 483,
+    "title": "上海印象·重温",
+    "description": "外滩的霓虹闪烁 —— 去过上海",
+    "rarity": "copper",
+    "unlock_rate": 42.0,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 484,
+    "title": "视频剪辑·突破",
+    "description": "剪出精彩人生 —— 熟练使用剪辑软件",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 485,
+    "title": "铁人三项·进阶版",
+    "description": "极限挑战自我 —— 完成铁人三项",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 486,
+    "title": "美洲探索·重温",
+    "description": "自由女神像前留影 —— 去过美国",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 487,
+    "title": "记忆大师·超越",
+    "description": "过目不忘的本领 —— 拥有超强记忆力",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 488,
+    "title": "金婚传奇·超越",
+    "description": "五十年风雨同舟 —— 结婚五十周年",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 489,
+    "title": "书法造诣·进阶版",
+    "description": "笔走龙蛇 —— 写得一手好字",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 490,
+    "title": "孩子上学·重温",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "copper",
+    "unlock_rate": 21.0,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 491,
+    "title": "绘画精通·突破",
+    "description": "妙笔生花 —— 绘画达到专业水平",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 492,
+    "title": "投资理财·传说版",
+    "description": "让钱生钱 —— 投资年化收益率超过10%",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 493,
+    "title": "健身增肌·至尊版",
+    "description": "穿衣显瘦脱衣有肉 —— 坚持健身1年以上",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 494,
+    "title": "书法造诣·进阶版",
+    "description": "笔走龙蛇 —— 写得一手好字",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 495,
+    "title": "视频剪辑·重温",
+    "description": "剪出精彩人生 —— 熟练使用剪辑软件",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 496,
+    "title": "学会编程·坚持",
+    "description": "从Hello World到构建世界 —— 掌握一门编程语言",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 497,
+    "title": "购车圆梦·突破",
+    "description": "四个轮子的自由 —— 购买第一辆车",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 498,
+    "title": "白头偕老·重温",
+    "description": "从青丝到白发，身边始终是你 —— 相伴到老",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 499,
+    "title": "财务自由·进阶版",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 500,
+    "title": "财富自由·重温",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 501,
+    "title": "学会编程·坚持",
+    "description": "从Hello World到构建世界 —— 掌握一门编程语言",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 502,
+    "title": "学会骑车·至尊版",
+    "description": "风在耳边呼啸，我学会了平衡 —— 学会骑自行车",
+    "rarity": "gold",
+    "unlock_rate": 18.0,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 503,
+    "title": "视频剪辑·传说版",
+    "description": "剪出精彩人生 —— 熟练使用剪辑软件",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 504,
+    "title": "百公里徒步·再次",
+    "description": "用脚步丈量大地 —— 完成百公里徒步",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 505,
+    "title": "摄影达人·重温",
+    "description": "用镜头记录美好 —— 摄影技术专业",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 506,
+    "title": "冲浪达人·大师版",
+    "description": "乘风破浪的感觉 —— 学会冲浪",
+    "rarity": "gold",
+    "unlock_rate": 0.5,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 507,
+    "title": "戒烟成功·突破",
+    "description": "和尼古丁说再见 —— 成功戒烟超过1年",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 508,
+    "title": "周年之约·传说版",
+    "description": "春夏秋冬又一春 —— 恋爱一周年",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 509,
+    "title": "人生目标·进阶版",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 510,
+    "title": "告白成功·传说版",
+    "description": "酝酿已久的话说出口，等来一句我也是 —— 表白被接受",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 511,
+    "title": "新婚燕尔·精英版",
+    "description": "执子之手，与子偕老 —— 步入婚姻殿堂",
+    "rarity": "gold",
+    "unlock_rate": 3.5,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 512,
+    "title": "西湖漫步·坚持",
+    "description": "欲把西湖比西子 —— 去过杭州",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 513,
+    "title": "人生目标·超越",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 514,
+    "title": "彩云之南·至尊版",
+    "description": "苍山洱海畔 —— 去过云南",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 515,
+    "title": "新手宝妈·超越",
+    "description": "十月怀胎的辛苦与幸福 —— 成为母亲",
+    "rarity": "gold",
+    "unlock_rate": 9.0,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 516,
+    "title": "买车无贷·大师版",
+    "description": "四轮的自由 —— 全款买车",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 517,
+    "title": "毕业答辩·大师版",
+    "description": "为学生时代画上句点 —— 顺利毕业",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 518,
+    "title": "月入过万·至尊版",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 519,
+    "title": "买房无贷·重温",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 520,
+    "title": "演讲高手·传说版",
+    "description": "聚光灯下的从容 —— 公开演讲不怯场",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 521,
+    "title": "千万富翁·传说版",
+    "description": "一个小目标 —— 个人资产突破千万",
+    "rarity": "gold",
+    "unlock_rate": 0.2,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 522,
+    "title": "退休提前·至尊版",
+    "description": "提前下车，去看世界 —— 40岁前退休",
+    "rarity": "gold",
+    "unlock_rate": 0.2,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 523,
+    "title": "开悟时刻·大师版",
+    "description": "醍醐灌顶的瞬间 —— 想通了困扰已久的问题",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 524,
+    "title": "存款六位数·进阶版",
+    "description": "银行里的安全感 —— 存款超过10万",
+    "rarity": "silver",
+    "unlock_rate": 14.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 525,
+    "title": "金婚父母·重温",
+    "description": "父母的爱情是最好的榜样 —— 父母结婚50年",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 526,
+    "title": "内心强大·大师版",
+    "description": "百毒不侵的内心 —— 面对挫折不气馁",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 527,
+    "title": "志愿者·再次",
+    "description": "用行动传递爱 —— 累计志愿服务超过100小时",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 528,
+    "title": "金婚传奇·重温",
+    "description": "五十年风雨同舟 —— 结婚五十周年",
+    "rarity": "silver",
+    "unlock_rate": 0.8,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 529,
+    "title": "戒酒成功·重温",
+    "description": "清醒的人生更精彩 —— 成功戒酒",
+    "rarity": "copper",
+    "unlock_rate": 7.5,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 530,
+    "title": "家庭旅行·坚持",
+    "description": "一家人的美好回忆 —— 和家人一起旅行",
+    "rarity": "copper",
+    "unlock_rate": 45.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 531,
+    "title": "第一次租房·精英版",
+    "description": "属于自己的小天地 —— 第一次独立租房",
+    "rarity": "silver",
+    "unlock_rate": 37.5,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 532,
+    "title": "志愿者·至尊版",
+    "description": "用行动传递爱 —— 累计志愿服务超过100小时",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 533,
+    "title": "存款六位数·突破",
+    "description": "银行里的安全感 —— 存款超过10万",
+    "rarity": "silver",
+    "unlock_rate": 14.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 534,
+    "title": "瑜伽大师·重温",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "copper",
+    "unlock_rate": 6.0,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 535,
+    "title": "第一桶金·再次",
+    "description": "人生第一桶金 —— 赚到第一个10万",
+    "rarity": "copper",
+    "unlock_rate": 45.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 536,
+    "title": "美洲探索·大师版",
+    "description": "自由女神像前留影 —— 去过美国",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 537,
+    "title": "登山登顶·坚持",
+    "description": "会当凌绝顶 —— 登顶过一座名山",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 538,
+    "title": "欧洲之旅·坚持",
+    "description": "浪漫的巴黎铁塔 —— 去过欧洲",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 539,
+    "title": "财务自由·重温",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "silver",
+    "unlock_rate": 1.2,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 540,
+    "title": "为人父母·坚持",
+    "description": "迎接新生命的到来 —— 有了自己的孩子",
+    "rarity": "silver",
+    "unlock_rate": 30.0,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 541,
+    "title": "新手宝妈·坚持",
+    "description": "十月怀胎的辛苦与幸福 —— 成为母亲",
+    "rarity": "silver",
+    "unlock_rate": 27.0,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 542,
+    "title": "天涯海角·至尊版",
+    "description": "走到中国最南端 —— 去过海南",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 543,
+    "title": "孩子上学·超越",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 544,
+    "title": "音乐节狂欢·进阶版",
+    "description": "草地上的青春 —— 参加过音乐节",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 545,
+    "title": "同学聚会·大师版",
+    "description": "青春不散场 —— 组织过同学聚会",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 546,
+    "title": "日本之行·重温",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 547,
+    "title": "太极高手·传说版",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 548,
+    "title": "早睡早起·坚持",
+    "description": "作息规律的健康生活 —— 坚持早睡早起1年",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 549,
+    "title": "年度体检·进阶版",
+    "description": "对自己的身体负责 —— 每年定期体检",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 550,
+    "title": "行业认可·传说版",
+    "description": "名字出现在行业榜单上 —— 获得专业奖项",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 551,
+    "title": "演讲高手·传说版",
+    "description": "聚光灯下的从容 —— 公开演讲不怯场",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 552,
+    "title": "跳伞体验·超越",
+    "description": "自由落体的快感 —— 体验过跳伞",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 553,
+    "title": "含饴弄孙·突破",
+    "description": "生命的延续 —— 抱上孙子/孙女",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 554,
+    "title": "社群领袖·重温",
+    "description": "一群人的主心骨 —— 创建并运营过社群",
+    "rarity": "copper",
+    "unlock_rate": 7.5,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 555,
+    "title": "社群领袖·再次",
+    "description": "一群人的主心骨 —— 创建并运营过社群",
+    "rarity": "copper",
+    "unlock_rate": 7.5,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 556,
+    "title": "马拉松完赛·至尊版",
+    "description": "42.195公里的坚持 —— 跑完马拉松全程",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 557,
+    "title": "学会品茶·大师版",
+    "description": "一杯清茶，半日悠闲 —— 懂得品茶",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 558,
+    "title": "天涯海角·大师版",
+    "description": "走到中国最南端 —— 去过海南",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 559,
+    "title": "慈善捐款·精英版",
+    "description": "尽一份绵薄之力 —— 累计捐款超过1万元",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 560,
+    "title": "蓉城时光·坚持",
+    "description": "宽窄巷子的悠闲午后 —— 去过成都",
+    "rarity": "copper",
+    "unlock_rate": 30.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 561,
+    "title": "潜水之旅·超越",
+    "description": "海底世界的奇幻 —— 体验过深潜",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 562,
+    "title": "献血英雄·至尊版",
+    "description": "热血暖人间 —— 献血超过5次",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 563,
+    "title": "导师之路·传说版",
+    "description": "把经验传递下去 —— 带过3个以上徒弟",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 564,
+    "title": "学会品茶·再次",
+    "description": "一杯清茶，半日悠闲 —— 懂得品茶",
+    "rarity": "copper",
+    "unlock_rate": 30.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 565,
+    "title": "毕业答辩·进阶版",
+    "description": "为学生时代画上句点 —— 顺利毕业",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 566,
+    "title": "发小情谊·至尊版",
+    "description": "穿开裆裤时就认识的交情 —— 有20年以上的朋友",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 567,
+    "title": "心动瞬间·突破",
+    "description": "人群中多看了一眼，心跳漏了一拍 —— 对某人一见钟情",
+    "rarity": "silver",
+    "unlock_rate": 17.5,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 568,
+    "title": "潜水之旅·精英版",
+    "description": "海底世界的奇幻 —— 体验过深潜",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 569,
+    "title": "慈悲为怀·坚持",
+    "description": "对万物怀有怜悯之心 —— 内心充满慈悲",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 570,
+    "title": "导师之路·进阶版",
+    "description": "把经验传递下去 —— 带过3个以上徒弟",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 571,
+    "title": "第一桶金·坚持",
+    "description": "人生第一桶金 —— 赚到第一个10万",
+    "rarity": "copper",
+    "unlock_rate": 45.0,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 572,
+    "title": "瑜伽大师·再次",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "copper",
+    "unlock_rate": 6.0,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 573,
+    "title": "学会骑车·至尊版",
+    "description": "风在耳边呼啸，我学会了平衡 —— 学会骑自行车",
+    "rarity": "gold",
+    "unlock_rate": 18.0,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 574,
+    "title": "戒酒成功·大师版",
+    "description": "清醒的人生更精彩 —— 成功戒酒",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 575,
+    "title": "书法造诣·大师版",
+    "description": "笔走龙蛇 —— 写得一手好字",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 576,
+    "title": "买房无贷·进阶版",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 577,
+    "title": "考取驾照·超越",
+    "description": "方向盘握在手中 —— 拿到机动车驾驶证",
+    "rarity": "silver",
+    "unlock_rate": 27.5,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 578,
+    "title": "养宠物·传说版",
+    "description": "毛茸茸的家人 —— 养过一只宠物",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 579,
+    "title": "百万突破·重温",
+    "description": "七位数的里程碑 —— 个人资产突破百万",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 580,
+    "title": "财务自由·超越",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 581,
+    "title": "欧洲之旅·突破",
+    "description": "浪漫的巴黎铁塔 —— 去过欧洲",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 582,
+    "title": "书法造诣·坚持",
+    "description": "笔走龙蛇 —— 写得一手好字",
+    "rarity": "copper",
+    "unlock_rate": 7.5,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 583,
+    "title": "冲浪达人·超越",
+    "description": "乘风破浪的感觉 —— 学会冲浪",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 584,
+    "title": "摄影达人·超越",
+    "description": "用镜头记录美好 —— 摄影技术专业",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 585,
+    "title": "月入过万·超越",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 586,
+    "title": "技能精通·传说版",
+    "description": "十年磨一剑 —— 在某领域深耕超过10年",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 587,
+    "title": "情绪自由·至尊版",
+    "description": "不被情绪牵着走 —— 能够掌控自己的情绪",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 588,
+    "title": "人生目标·精英版",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 589,
+    "title": "西湖漫步·突破",
+    "description": "欲把西湖比西子 —— 去过杭州",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 590,
+    "title": "升职记·进阶版",
+    "description": "肩膀上的担子重了，视野也开阔了 —— 第一次升职",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 591,
+    "title": "书法造诣·超越",
+    "description": "笔走龙蛇 —— 写得一手好字",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 592,
+    "title": "马拉松完赛·进阶版",
+    "description": "42.195公里的坚持 —— 跑完马拉松全程",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 593,
+    "title": "雪域高原·至尊版",
+    "description": "离天空最近的地方 —— 去过西藏",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 594,
+    "title": "戒酒成功·传说版",
+    "description": "清醒的人生更精彩 —— 成功戒酒",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 595,
+    "title": "滑雪初体验·超越",
+    "description": "雪道上的飞驰 —— 学会滑雪",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 596,
+    "title": "感恩之心·传说版",
+    "description": "感谢生命中的一切 —— 每天心怀感恩",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 597,
+    "title": "烘焙达人·突破",
+    "description": "烤箱里飘出的香甜 —— 学会烘焙",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 598,
+    "title": "宝岛台湾·精英版",
+    "description": "阿里山的姑娘 —— 去过台湾",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 599,
+    "title": "冲浪达人·精英版",
+    "description": "乘风破浪的感觉 —— 学会冲浪",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 600,
+    "title": "初入职场·精英版",
+    "description": "拿着简历，忐忑推开第一扇门 —— 找到第一份工作",
+    "rarity": "silver",
+    "unlock_rate": 42.5,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 601,
+    "title": "蹦极挑战·超越",
+    "description": "纵身一跃的勇气 —— 玩过蹦极",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 602,
+    "title": "演唱会现场·大师版",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 603,
+    "title": "健康饮食·至尊版",
+    "description": "告别垃圾食品 —— 坚持健康饮食1年",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 604,
+    "title": "摄影达人·突破",
+    "description": "用镜头记录美好 —— 摄影技术专业",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 605,
+    "title": "网络红人·坚持",
+    "description": "有一定的影响力 —— 社交媒体粉丝过万",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 606,
+    "title": "千万富翁·进阶版",
+    "description": "一个小目标 —— 个人资产突破千万",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 607,
+    "title": "演讲高手·再次",
+    "description": "聚光灯下的从容 —— 公开演讲不怯场",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 608,
+    "title": "第一桶金·进阶版",
+    "description": "人生第一桶金 —— 赚到第一个10万",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 609,
+    "title": "独当一面·超越",
+    "description": "从执行者到决策者 —— 独立负责一个项目",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 610,
+    "title": "月入过万·至尊版",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 611,
+    "title": "月入过万·精英版",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 612,
+    "title": "太极高手·坚持",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "copper",
+    "unlock_rate": 4.5,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 613,
+    "title": "种花养花·超越",
+    "description": "阳台上的小花园 —— 成功养活过植物",
+    "rarity": "silver",
+    "unlock_rate": 17.5,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 614,
+    "title": "舞蹈达人·坚持",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "copper",
+    "unlock_rate": 10.5,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 615,
+    "title": "第一桶金·再次",
+    "description": "账户上的数字第一次突破想象 —— 赚到人生第一个10万",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 616,
+    "title": "视频剪辑·再次",
+    "description": "剪出精彩人生 —— 熟练使用剪辑软件",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 617,
+    "title": "人生目标·精英版",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 618,
+    "title": "孩子结婚·坚持",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 619,
+    "title": "跳伞体验·重温",
+    "description": "自由落体的快感 —— 体验过跳伞",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 620,
+    "title": "社交达人·坚持",
+    "description": "朋友遍天下 —— 微信好友超过500人",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 621,
+    "title": "跳槽成功·至尊版",
+    "description": "人往高处走 —— 成功跳槽到更好的平台",
+    "rarity": "gold",
+    "unlock_rate": 7.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 622,
+    "title": "新手奶爸·重温",
+    "description": "换尿布的手忙脚乱 —— 成为父亲",
+    "rarity": "silver",
+    "unlock_rate": 27.0,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 623,
+    "title": "收养流浪动物·进阶版",
+    "description": "给它们一个家 —— 收养过流浪猫狗",
+    "rarity": "silver",
+    "unlock_rate": 2.0,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 624,
+    "title": "慈悲为怀·突破",
+    "description": "对万物怀有怜悯之心 —— 内心充满慈悲",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 625,
+    "title": "铁人三项·进阶版",
+    "description": "极限挑战自我 —— 完成铁人三项",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 626,
+    "title": "山城雾都·再次",
+    "description": "洪崖洞的魔幻夜景 —— 去过重庆",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 627,
+    "title": "存款六位数·坚持",
+    "description": "银行里的安全感 —— 存款超过10万",
+    "rarity": "copper",
+    "unlock_rate": 42.0,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 628,
+    "title": "终身学习·进阶版",
+    "description": "活到老学到老 —— 保持学习的习惯",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 629,
+    "title": "雪域高原·突破",
+    "description": "离天空最近的地方 —— 去过西藏",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 630,
+    "title": "学会一门外语·至尊版",
+    "description": "推开另一扇文化的门 —— 熟练掌握一门外语",
+    "rarity": "gold",
+    "unlock_rate": 4.4,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 631,
+    "title": "视力保持·坚持",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 632,
+    "title": "初入职场·超越",
+    "description": "拿着简历，忐忑推开第一扇门 —— 找到第一份工作",
+    "rarity": "silver",
+    "unlock_rate": 42.5,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 633,
+    "title": "日本之行·精英版",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 634,
+    "title": "音乐节狂欢·进阶版",
+    "description": "草地上的青春 —— 参加过音乐节",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 635,
+    "title": "公众演讲·大师版",
+    "description": "台下百十号人 —— 在100人以上场合演讲",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 636,
+    "title": "美洲探索·大师版",
+    "description": "自由女神像前留影 —— 去过美国",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 637,
+    "title": "戒酒成功·精英版",
+    "description": "清醒的人生更精彩 —— 成功戒酒",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 638,
+    "title": "视力保持·至尊版",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 639,
+    "title": "器官捐赠·至尊版",
+    "description": "延续生命的大爱 —— 签署器官捐赠协议",
+    "rarity": "gold",
+    "unlock_rate": 0.2,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 640,
+    "title": "领导才能·坚持",
+    "description": "一呼百应的魅力 —— 带领过10人以上团队",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 641,
+    "title": "健身增肌·坚持",
+    "description": "穿衣显瘦脱衣有肉 —— 坚持健身1年以上",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 642,
+    "title": "发小情谊·重温",
+    "description": "穿开裆裤时就认识的交情 —— 有20年以上的朋友",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 643,
+    "title": "环游世界·超越",
+    "description": "地球那么大，我想去看看 —— 去过20个以上国家",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 644,
+    "title": "器官捐赠·精英版",
+    "description": "延续生命的大爱 —— 签署器官捐赠协议",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 645,
+    "title": "行业认可·重温",
+    "description": "名字出现在行业榜单上 —— 获得专业奖项",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 646,
+    "title": "家族聚会·突破",
+    "description": "四世同堂的温馨 —— 举办过大型家族聚会",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 647,
+    "title": "冲浪达人·进阶版",
+    "description": "乘风破浪的感觉 —— 学会冲浪",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 648,
+    "title": "潜水之旅·至尊版",
+    "description": "海底世界的奇幻 —— 体验过深潜",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 649,
+    "title": "财务自由·坚持",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "silver",
+    "unlock_rate": 1.2,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 650,
+    "title": "买房置业·突破",
+    "description": "万家灯火，终于有一盏为我而亮 —— 购置房产",
+    "rarity": "gold",
+    "unlock_rate": 7.5,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 651,
+    "title": "百公里徒步·再次",
+    "description": "用脚步丈量大地 —— 完成百公里徒步",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 652,
+    "title": "慈善捐款·突破",
+    "description": "尽一份绵薄之力 —— 累计捐款超过1万元",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 653,
+    "title": "书法造诣·再次",
+    "description": "笔走龙蛇 —— 写得一手好字",
+    "rarity": "copper",
+    "unlock_rate": 7.5,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 654,
+    "title": "日本之行·传说版",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 655,
+    "title": "五百万资产·传说版",
+    "description": "半千万的门槛 —— 总资产突破500万",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 656,
+    "title": "厨艺大师·再次",
+    "description": "能做出一桌丰盛的年夜饭 —— 会做20道以上大菜",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 657,
+    "title": "健康饮食·重温",
+    "description": "告别垃圾食品 —— 坚持健康饮食1年",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 658,
+    "title": "舞蹈达人·精英版",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "silver",
+    "unlock_rate": 3.5,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 659,
+    "title": "戒烟成功·精英版",
+    "description": "和尼古丁说再见 —— 成功戒烟超过1年",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 660,
+    "title": "献血英雄·再次",
+    "description": "热血暖人间 —— 献血超过5次",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 661,
+    "title": "导师之路·坚持",
+    "description": "把经验传递下去 —— 带过3个以上徒弟",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 662,
+    "title": "百万突破·坚持",
+    "description": "七位数的里程碑 —— 个人资产突破百万",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 663,
+    "title": "锡婚之约·精英版",
+    "description": "十年光阴，韧如锡器 —— 结婚十周年",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 664,
+    "title": "领导才能·精英版",
+    "description": "一呼百应的魅力 —— 带领过10人以上团队",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 665,
+    "title": "第一桶金·至尊版",
+    "description": "账户上的数字第一次突破想象 —— 赚到人生第一个10万",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 666,
+    "title": "全家福·重温",
+    "description": "一年一度的团圆 —— 每年拍全家福",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 667,
+    "title": "人生目标·再次",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 668,
+    "title": "慈悲为怀·突破",
+    "description": "对万物怀有怜悯之心 —— 内心充满慈悲",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 669,
+    "title": "视频剪辑·坚持",
+    "description": "剪出精彩人生 —— 熟练使用剪辑软件",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 670,
+    "title": "社交达人·超越",
+    "description": "朋友遍天下 —— 微信好友超过500人",
+    "rarity": "silver",
+    "unlock_rate": 11.0,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 671,
+    "title": "独当一面·至尊版",
+    "description": "从执行者到决策者 —— 独立负责一个项目",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 672,
+    "title": "日本之行·大师版",
+    "description": "樱花飘落的季节 —— 去过日本",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 673,
+    "title": "烘焙达人·大师版",
+    "description": "烤箱里飘出的香甜 —— 学会烘焙",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 674,
+    "title": "减肥成功·至尊版",
+    "description": "遇见更好的自己 —— 减重20斤以上",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 675,
+    "title": "心动瞬间·再次",
+    "description": "人群中多看了一眼，心跳漏了一拍 —— 对某人一见钟情",
+    "rarity": "copper",
+    "unlock_rate": 52.5,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 676,
+    "title": "百天纪念·再次",
+    "description": "一起走过第一个一百天 —— 恋爱满100天",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 677,
+    "title": "孩子结婚·精英版",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 678,
+    "title": "山城雾都·重温",
+    "description": "洪崖洞的魔幻夜景 —— 去过重庆",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 679,
+    "title": "买房无贷·精英版",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 680,
+    "title": "考取驾照·大师版",
+    "description": "方向盘握在手中 —— 拿到机动车驾驶证",
+    "rarity": "gold",
+    "unlock_rate": 11.0,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 681,
+    "title": "存款七位数·重温",
+    "description": "百万存款俱乐部 —— 存款超过100万",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 682,
+    "title": "买房无贷·传说版",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 683,
+    "title": "视力保持·超越",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 684,
+    "title": "大学录取·坚持",
+    "description": "十年寒窗，换来一纸通知书 —— 考上大学",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 685,
+    "title": "活在当下·坚持",
+    "description": "不念过往不畏将来 —— 享受当下每一刻",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 686,
+    "title": "跳伞体验·进阶版",
+    "description": "自由落体的快感 —— 体验过跳伞",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 687,
+    "title": "视力保持·至尊版",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 688,
+    "title": "认知升级·精英版",
+    "description": "原来还可以这样 —— 认知维度提升",
+    "rarity": "gold",
+    "unlock_rate": 3.5,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 689,
+    "title": "第一桶金·再次",
+    "description": "账户上的数字第一次突破想象 —— 赚到人生第一个10万",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 690,
+    "title": "第一桶金·重温",
+    "description": "人生第一桶金 —— 赚到第一个10万",
+    "rarity": "copper",
+    "unlock_rate": 45.0,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 691,
+    "title": "演唱会现场·至尊版",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 692,
+    "title": "塞外风光·坚持",
+    "description": "大漠孤烟直 —— 去过新疆",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 693,
+    "title": "独当一面·重温",
+    "description": "从执行者到决策者 —— 独立负责一个项目",
+    "rarity": "copper",
+    "unlock_rate": 45.0,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 694,
+    "title": "百万资产·超越",
+    "description": "七位数的里程碑 —— 总资产突破百万",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 695,
+    "title": "潜水之旅·至尊版",
+    "description": "海底世界的奇幻 —— 体验过深潜",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 696,
+    "title": "金婚传奇·重温",
+    "description": "五十年风雨同舟 —— 结婚五十周年",
+    "rarity": "silver",
+    "unlock_rate": 0.8,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 697,
+    "title": "生日派对·超越",
+    "description": "蜡烛前的许愿 —— 办过一次大型生日聚会",
+    "rarity": "silver",
+    "unlock_rate": 22.5,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 698,
+    "title": "感恩之心·进阶版",
+    "description": "感谢生命中的一切 —— 每天心怀感恩",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 699,
+    "title": "买车无贷·坚持",
+    "description": "四轮的自由 —— 全款买车",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 700,
+    "title": "滑雪初体验·传说版",
+    "description": "雪道上的飞驰 —— 学会滑雪",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 701,
+    "title": "存款六位数·再次",
+    "description": "银行里的安全感 —— 存款超过10万",
+    "rarity": "copper",
+    "unlock_rate": 42.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 702,
+    "title": "宝岛台湾·传说版",
+    "description": "阿里山的姑娘 —— 去过台湾",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 703,
+    "title": "第一桶金·精英版",
+    "description": "人生第一桶金 —— 赚到第一个10万",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 704,
+    "title": "人生目标·进阶版",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 705,
+    "title": "滑雪初体验·坚持",
+    "description": "雪道上的飞驰 —— 学会滑雪",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 706,
+    "title": "新婚燕尔·再次",
+    "description": "执子之手，与子偕老 —— 步入婚姻殿堂",
+    "rarity": "silver",
+    "unlock_rate": 10.5,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 707,
+    "title": "学会游泳·至尊版",
+    "description": "从怕水到如鱼得水 —— 学会游泳",
+    "rarity": "gold",
+    "unlock_rate": 14.0,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 708,
+    "title": "孝敬父母·重温",
+    "description": "你养我长大，我陪你变老 —— 带父母定期体检",
+    "rarity": "copper",
+    "unlock_rate": 42.0,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 709,
+    "title": "大学录取·精英版",
+    "description": "十年寒窗，换来一纸通知书 —— 考上大学",
+    "rarity": "silver",
+    "unlock_rate": 22.5,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 710,
+    "title": "环保行动者·再次",
+    "description": "守护地球家园 —— 坚持垃圾分类和环保生活",
+    "rarity": "copper",
+    "unlock_rate": 10.5,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 711,
+    "title": "热心助人·至尊版",
+    "description": "赠人玫瑰手有余香 —— 经常帮助陌生人",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 712,
+    "title": "毕业答辩·坚持",
+    "description": "为学生时代画上句点 —— 顺利毕业",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 713,
+    "title": "潜水之旅·再次",
+    "description": "海底世界的奇幻 —— 体验过深潜",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 714,
+    "title": "第一桶金·大师版",
+    "description": "账户上的数字第一次突破想象 —— 赚到人生第一个10万",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 715,
+    "title": "学会绘画·传说版",
+    "description": "用色彩描绘心中的世界 —— 学会绘画",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 716,
+    "title": "信仰之路·重温",
+    "description": "心灵的归宿 —— 找到精神信仰",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 717,
+    "title": "社群领袖·大师版",
+    "description": "一群人的主心骨 —— 创建并运营过社群",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 718,
+    "title": "厨艺大师·至尊版",
+    "description": "能做出一桌丰盛的年夜饭 —— 会做20道以上大菜",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 719,
+    "title": "知心好友·坚持",
+    "description": "人生得一知己足矣 —— 有3个以上知心朋友",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 720,
+    "title": "家庭旅行·至尊版",
+    "description": "一家人的美好回忆 —— 和家人一起旅行",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 721,
+    "title": "五百万资产·再次",
+    "description": "半千万的门槛 —— 总资产突破500万",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 722,
+    "title": "财富自由·传说版",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "gold",
+    "unlock_rate": 0.3,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 723,
+    "title": "戒烟成功·超越",
+    "description": "和尼古丁说再见 —— 成功戒烟超过1年",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 724,
+    "title": "社群领袖·超越",
+    "description": "一群人的主心骨 —— 创建并运营过社群",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 725,
+    "title": "宝岛台湾·大师版",
+    "description": "阿里山的姑娘 —— 去过台湾",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 726,
+    "title": "慈悲为怀·坚持",
+    "description": "对万物怀有怜悯之心 —— 内心充满慈悲",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 727,
+    "title": "跳伞体验·重温",
+    "description": "自由落体的快感 —— 体验过跳伞",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 728,
+    "title": "升职记·进阶版",
+    "description": "肩膀上的担子重了，视野也开阔了 —— 第一次升职",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 729,
+    "title": "百天纪念·坚持",
+    "description": "一起走过第一个一百天 —— 恋爱满100天",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 730,
+    "title": "首次加薪·传说版",
+    "description": "努力被看见，数字在跳动 —— 第一次涨工资",
+    "rarity": "gold",
+    "unlock_rate": 13.0,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 731,
+    "title": "发小情谊·重温",
+    "description": "穿开裆裤时就认识的交情 —— 有20年以上的朋友",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 732,
+    "title": "百公里徒步·突破",
+    "description": "用脚步丈量大地 —— 完成百公里徒步",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 733,
+    "title": "音乐创作·精英版",
+    "description": "谱写自己的旋律 —— 创作过原创音乐",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 734,
+    "title": "舞蹈达人·大师版",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "gold",
+    "unlock_rate": 1.4,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 735,
+    "title": "冥想入门·重温",
+    "description": "和内心对话 —— 坚持冥想超过100天",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 736,
+    "title": "生日派对·再次",
+    "description": "蜡烛前的许愿 —— 办过一次大型生日聚会",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 737,
+    "title": "彩云之南·坚持",
+    "description": "苍山洱海畔 —— 去过云南",
+    "rarity": "copper",
+    "unlock_rate": 27.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 738,
+    "title": "美洲探索·再次",
+    "description": "自由女神像前留影 —— 去过美国",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 739,
+    "title": "财富自由·再次",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 740,
+    "title": "环保行动者·再次",
+    "description": "守护地球家园 —— 坚持垃圾分类和环保生活",
+    "rarity": "copper",
+    "unlock_rate": 10.5,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 741,
+    "title": "异地坚守·至尊版",
+    "description": "距离没有打败爱情 —— 异地恋超过1年",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 742,
+    "title": "上海印象·坚持",
+    "description": "外滩的霓虹闪烁 —— 去过上海",
+    "rarity": "copper",
+    "unlock_rate": 42.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 743,
+    "title": "财富自由·传说版",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "gold",
+    "unlock_rate": 0.3,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 744,
+    "title": "冥想觉醒·超越",
+    "description": "内观自己的内心 —— 冥想中体验到深度平静",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 745,
+    "title": "心动瞬间·再次",
+    "description": "人群中多看了一眼，心跳漏了一拍 —— 对某人一见钟情",
+    "rarity": "copper",
+    "unlock_rate": 52.5,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 746,
+    "title": "西湖漫步·超越",
+    "description": "欲把西湖比西子 —— 去过杭州",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 747,
+    "title": "上海印象·突破",
+    "description": "外滩的霓虹闪烁 —— 去过上海",
+    "rarity": "silver",
+    "unlock_rate": 14.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 748,
+    "title": "东方之珠·传说版",
+    "description": "维多利亚港的夜景 —— 去过香港",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 749,
+    "title": "天涯海角·精英版",
+    "description": "走到中国最南端 —— 去过海南",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 750,
+    "title": "月入过万·至尊版",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 751,
+    "title": "考取驾照·突破",
+    "description": "方向盘握在手中 —— 拿到机动车驾驶证",
+    "rarity": "silver",
+    "unlock_rate": 27.5,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 752,
+    "title": "滑雪初体验·精英版",
+    "description": "雪道上的飞驰 —— 学会滑雪",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 753,
+    "title": "财富自由·进阶版",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 754,
+    "title": "学会骑车·再次",
+    "description": "风在耳边呼啸，我学会了平衡 —— 学会骑自行车",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 755,
+    "title": "东方之珠·再次",
+    "description": "维多利亚港的夜景 —— 去过香港",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 756,
+    "title": "初吻·至尊版",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "gold",
+    "unlock_rate": 5.6,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 757,
+    "title": "初吻·重温",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "silver",
+    "unlock_rate": 42.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 758,
+    "title": "知心好友·大师版",
+    "description": "人生得一知己足矣 —— 有3个以上知心朋友",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 759,
+    "title": "瑜伽大师·再次",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "copper",
+    "unlock_rate": 6.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 760,
+    "title": "献血英雄·大师版",
+    "description": "热血暖人间 —— 献血超过5次",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 761,
+    "title": "太极高手·传说版",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 762,
+    "title": "月入过万·突破",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 763,
+    "title": "演唱会现场·进阶版",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 764,
+    "title": "父母认可·重温",
+    "description": "带你见我家长 —— 获得双方父母祝福",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 765,
+    "title": "舞蹈达人·大师版",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "gold",
+    "unlock_rate": 1.4,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 766,
+    "title": "健康饮食·坚持",
+    "description": "告别垃圾食品 —— 坚持健康饮食1年",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 767,
+    "title": "行业大牛·大师版",
+    "description": "一提及你的名字，业内都知道 —— 成为行业知名人物",
+    "rarity": "gold",
+    "unlock_rate": 0.4,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 768,
+    "title": "全家福·精英版",
+    "description": "一年一度的团圆 —— 每年拍全家福",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 769,
+    "title": "升职记·至尊版",
+    "description": "肩膀上的担子重了，视野也开阔了 —— 第一次升职",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 770,
+    "title": "买房无贷·超越",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 771,
+    "title": "器官捐赠·再次",
+    "description": "延续生命的大爱 —— 签署器官捐赠协议",
+    "rarity": "silver",
+    "unlock_rate": 1.5,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 772,
+    "title": "音乐创作·突破",
+    "description": "谱写自己的旋律 —— 创作过原创音乐",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 773,
+    "title": "演唱会现场·突破",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 774,
+    "title": "五百万资产·大师版",
+    "description": "半千万的门槛 —— 总资产突破500万",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 775,
+    "title": "导师之路·突破",
+    "description": "把经验传递下去 —— 带过3个以上徒弟",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 776,
+    "title": "塞外风光·坚持",
+    "description": "大漠孤烟直 —— 去过新疆",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 777,
+    "title": "塞外风光·再次",
+    "description": "大漠孤烟直 —— 去过新疆",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 778,
+    "title": "铁人三项·重温",
+    "description": "极限挑战自我 —— 完成铁人三项",
+    "rarity": "silver",
+    "unlock_rate": 0.8,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 779,
+    "title": "跳槽成功·重温",
+    "description": "人往高处走 —— 成功跳槽到更好的平台",
+    "rarity": "copper",
+    "unlock_rate": 52.5,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 780,
+    "title": "家庭旅行·至尊版",
+    "description": "一家人的美好回忆 —— 和家人一起旅行",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 781,
+    "title": "新手宝妈·坚持",
+    "description": "十月怀胎的辛苦与幸福 —— 成为母亲",
+    "rarity": "silver",
+    "unlock_rate": 27.0,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 782,
+    "title": "首次加薪·大师版",
+    "description": "努力被看见，数字在跳动 —— 第一次涨工资",
+    "rarity": "gold",
+    "unlock_rate": 13.0,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 783,
+    "title": "创业启航·大师版",
+    "description": "按下启动键，一切从零开始 —— 创办自己的事业",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 784,
+    "title": "手足情深·精英版",
+    "description": "一生的兄弟姐妹 —— 和兄弟姐妹关系亲密",
+    "rarity": "silver",
+    "unlock_rate": 17.5,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 785,
+    "title": "社交达人·超越",
+    "description": "朋友遍天下 —— 微信好友超过500人",
+    "rarity": "silver",
+    "unlock_rate": 11.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 786,
+    "title": "热心助人·再次",
+    "description": "赠人玫瑰手有余香 —— 经常帮助陌生人",
+    "rarity": "copper",
+    "unlock_rate": 27.0,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 787,
+    "title": "人生目标·重温",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 788,
+    "title": "家谱传承·重温",
+    "description": "知道家族三代以上的故事 —— 了解家族历史",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 789,
+    "title": "百天纪念·超越",
+    "description": "一起走过第一个一百天 —— 恋爱满100天",
+    "rarity": "silver",
+    "unlock_rate": 11.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 790,
+    "title": "观影百部·大师版",
+    "description": "一年看过100部电影 —— 年度观影量超100",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 791,
+    "title": "被动收入·传说版",
+    "description": "躺着也能赚钱 —— 被动收入覆盖基本生活",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 792,
+    "title": "学会做饭·坚持",
+    "description": "从泡面到满汉全席 —— 学会做10道以上家常菜",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 793,
+    "title": "美洲探索·大师版",
+    "description": "自由女神像前留影 —— 去过美国",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 794,
+    "title": "家谱传承·突破",
+    "description": "知道家族三代以上的故事 —— 了解家族历史",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 795,
+    "title": "新手奶爸·至尊版",
+    "description": "换尿布的手忙脚乱 —— 成为父亲",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 796,
+    "title": "年薪百万·重温",
+    "description": "百万年薪俱乐部 —— 年薪突破百万",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 797,
+    "title": "慈善捐款·超越",
+    "description": "尽一份绵薄之力 —— 累计捐款超过1万元",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 798,
+    "title": "买房无贷·突破",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 799,
+    "title": "新婚燕尔·至尊版",
+    "description": "执子之手，与子偕老 —— 步入婚姻殿堂",
+    "rarity": "gold",
+    "unlock_rate": 1.4,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 800,
+    "title": "初吻·至尊版",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "gold",
+    "unlock_rate": 5.6,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 801,
+    "title": "登山登顶·再次",
+    "description": "会当凌绝顶 —— 登顶过一座名山",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 802,
+    "title": "为人父母·精英版",
+    "description": "迎接新生命的到来 —— 有了自己的孩子",
+    "rarity": "gold",
+    "unlock_rate": 10.0,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 803,
+    "title": "购车圆梦·重温",
+    "description": "四个轮子的自由 —— 购买第一辆车",
+    "rarity": "copper",
+    "unlock_rate": 30.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 804,
+    "title": "升职记·进阶版",
+    "description": "肩膀上的担子重了，视野也开阔了 —— 第一次升职",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 805,
+    "title": "退休提前·突破",
+    "description": "提前下车，去看世界 —— 40岁前退休",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 806,
+    "title": "塞外风光·重温",
+    "description": "大漠孤烟直 —— 去过新疆",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 807,
+    "title": "百公里徒步·精英版",
+    "description": "用脚步丈量大地 —— 完成百公里徒步",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 808,
+    "title": "孩子上学·再次",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "copper",
+    "unlock_rate": 21.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 809,
+    "title": "财务自由·大师版",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "gold",
+    "unlock_rate": 0.2,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 810,
+    "title": "初吻·精英版",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "gold",
+    "unlock_rate": 14.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 811,
+    "title": "月入过万·大师版",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 812,
+    "title": "演唱会现场·重温",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "copper",
+    "unlock_rate": 27.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 813,
+    "title": "冥想入门·坚持",
+    "description": "和内心对话 —— 坚持冥想超过100天",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 814,
+    "title": "摄影达人·传说版",
+    "description": "用镜头记录美好 —— 摄影技术专业",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 815,
+    "title": "知心好友·再次",
+    "description": "人生得一知己足矣 —— 有3个以上知心朋友",
+    "rarity": "silver",
+    "unlock_rate": 15.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 816,
+    "title": "烘焙达人·至尊版",
+    "description": "烤箱里飘出的香甜 —— 学会烘焙",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 817,
+    "title": "冥想觉醒·超越",
+    "description": "内观自己的内心 —— 冥想中体验到深度平静",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 818,
+    "title": "太极高手·至尊版",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 819,
+    "title": "告白成功·重温",
+    "description": "酝酿已久的话说出口，等来一句我也是 —— 表白被接受",
+    "rarity": "silver",
+    "unlock_rate": 22.5,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 820,
+    "title": "月入过万·进阶版",
+    "description": "五位数的月薪 —— 月薪突破1万元",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 821,
+    "title": "雪域高原·传说版",
+    "description": "离天空最近的地方 —— 去过西藏",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 822,
+    "title": "学会绘画·至尊版",
+    "description": "用色彩描绘心中的世界 —— 学会绘画",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 823,
+    "title": "观影百部·大师版",
+    "description": "一年看过100部电影 —— 年度观影量超100",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 824,
+    "title": "父母认可·重温",
+    "description": "带你见我家长 —— 获得双方父母祝福",
+    "rarity": "silver",
+    "unlock_rate": 18.0,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 825,
+    "title": "考取驾照·重温",
+    "description": "方向盘握在手中 —— 拿到机动车驾驶证",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 826,
+    "title": "器官捐赠·传说版",
+    "description": "延续生命的大爱 —— 签署器官捐赠协议",
+    "rarity": "gold",
+    "unlock_rate": 0.2,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 827,
+    "title": "热心助人·再次",
+    "description": "赠人玫瑰手有余香 —— 经常帮助陌生人",
+    "rarity": "copper",
+    "unlock_rate": 27.0,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 828,
+    "title": "创业启航·进阶版",
+    "description": "按下启动键，一切从零开始 —— 创办自己的事业",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 829,
+    "title": "厨艺大师·坚持",
+    "description": "能做出一桌丰盛的年夜饭 —— 会做20道以上大菜",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 830,
+    "title": "导师之路·再次",
+    "description": "把经验传递下去 —— 带过3个以上徒弟",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 831,
+    "title": "五百万资产·超越",
+    "description": "半千万的门槛 —— 总资产突破500万",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 832,
+    "title": "演讲高手·重温",
+    "description": "聚光灯下的从容 —— 公开演讲不怯场",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 833,
+    "title": "养宠物·重温",
+    "description": "毛茸茸的家人 —— 养过一只宠物",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 834,
+    "title": "周年之约·精英版",
+    "description": "春夏秋冬又一春 —— 恋爱一周年",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 835,
+    "title": "千万资产·再次",
+    "description": "财富自由的起点 —— 总资产突破千万",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 836,
+    "title": "创业启航·大师版",
+    "description": "按下启动键，一切从零开始 —— 创办自己的事业",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 837,
+    "title": "塞外风光·超越",
+    "description": "大漠孤烟直 —— 去过新疆",
+    "rarity": "silver",
+    "unlock_rate": 5.0,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 838,
+    "title": "绘画精通·大师版",
+    "description": "妙笔生花 —— 绘画达到专业水平",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 839,
+    "title": "领导才能·至尊版",
+    "description": "一呼百应的魅力 —— 带领过10人以上团队",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 840,
+    "title": "孩子第一声爸妈·再次",
+    "description": "那一刻心都化了 —— 听到孩子第一次叫爸妈",
+    "rarity": "silver",
+    "unlock_rate": 24.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 841,
+    "title": "学会游泳·突破",
+    "description": "从怕水到如鱼得水 —— 学会游泳",
+    "rarity": "silver",
+    "unlock_rate": 35.0,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 842,
+    "title": "人生目标·突破",
+    "description": "不再迷茫 —— 找到人生方向和目标",
+    "rarity": "gold",
+    "unlock_rate": 6.0,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 843,
+    "title": "同学聚会·再次",
+    "description": "青春不散场 —— 组织过同学聚会",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 844,
+    "title": "孝敬父母·精英版",
+    "description": "你养我长大，我陪你变老 —— 带父母定期体检",
+    "rarity": "silver",
+    "unlock_rate": 14.0,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 845,
+    "title": "上海印象·精英版",
+    "description": "外滩的霓虹闪烁 —— 去过上海",
+    "rarity": "silver",
+    "unlock_rate": 14.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 846,
+    "title": "学会品茶·精英版",
+    "description": "一杯清茶，半日悠闲 —— 懂得品茶",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 847,
+    "title": "月入十万·大师版",
+    "description": "精英阶层 —— 月薪突破10万元",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 848,
+    "title": "学会绘画·坚持",
+    "description": "用色彩描绘心中的世界 —— 学会绘画",
+    "rarity": "copper",
+    "unlock_rate": 27.0,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 849,
+    "title": "年度体检·超越",
+    "description": "对自己的身体负责 —— 每年定期体检",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 850,
+    "title": "千万资产·超越",
+    "description": "财富自由的起点 —— 总资产突破千万",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 851,
+    "title": "冥想觉醒·超越",
+    "description": "内观自己的内心 —— 冥想中体验到深度平静",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 852,
+    "title": "家谱传承·再次",
+    "description": "知道家族三代以上的故事 —— 了解家族历史",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 853,
+    "title": "买房置业·大师版",
+    "description": "万家灯火，终于有一盏为我而亮 —— 购置房产",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 854,
+    "title": "瑜伽大师·至尊版",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 855,
+    "title": "蹦极挑战·进阶版",
+    "description": "纵身一跃的勇气 —— 玩过蹦极",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 856,
+    "title": "金婚父母·大师版",
+    "description": "父母的爱情是最好的榜样 —— 父母结婚50年",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 857,
+    "title": "演唱会现场·坚持",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "copper",
+    "unlock_rate": 27.0,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 858,
+    "title": "心动瞬间·再次",
+    "description": "人群中多看了一眼，心跳漏了一拍 —— 对某人一见钟情",
+    "rarity": "copper",
+    "unlock_rate": 52.5,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 859,
+    "title": "养宠物·大师版",
+    "description": "毛茸茸的家人 —— 养过一只宠物",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 860,
+    "title": "财务自由·突破",
+    "description": "不为钱工作的自由 —— 实现财务自由",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 861,
+    "title": "书法造诣·超越",
+    "description": "笔走龙蛇 —— 写得一手好字",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 862,
+    "title": "慈善捐款·进阶版",
+    "description": "尽一份绵薄之力 —— 累计捐款超过1万元",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 863,
+    "title": "视力保持·超越",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 864,
+    "title": "情绪自由·再次",
+    "description": "不被情绪牵着走 —— 能够掌控自己的情绪",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 865,
+    "title": "千万资产·突破",
+    "description": "财富自由的起点 —— 总资产突破千万",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 866,
+    "title": "学会骑车·坚持",
+    "description": "风在耳边呼啸，我学会了平衡 —— 学会骑自行车",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 867,
+    "title": "技能精通·再次",
+    "description": "十年磨一剑 —— 在某领域深耕超过10年",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 868,
+    "title": "百万突破·精英版",
+    "description": "七位数的里程碑 —— 个人资产突破百万",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 869,
+    "title": "告白成功·坚持",
+    "description": "酝酿已久的话说出口，等来一句我也是 —— 表白被接受",
+    "rarity": "silver",
+    "unlock_rate": 22.5,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 870,
+    "title": "太极高手·突破",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "silver",
+    "unlock_rate": 1.5,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 871,
+    "title": "月入十万·再次",
+    "description": "精英阶层 —— 月薪突破10万元",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 872,
+    "title": "家族聚会·至尊版",
+    "description": "四世同堂的温馨 —— 举办过大型家族聚会",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 873,
+    "title": "写作能手·再次",
+    "description": "笔下生花 —— 公开发表过文章",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 874,
+    "title": "开悟时刻·进阶版",
+    "description": "醍醐灌顶的瞬间 —— 想通了困扰已久的问题",
+    "rarity": "silver",
+    "unlock_rate": 12.5,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 875,
+    "title": "冥想觉醒·再次",
+    "description": "内观自己的内心 —— 冥想中体验到深度平静",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 876,
+    "title": "跳槽成功·大师版",
+    "description": "人往高处走 —— 成功跳槽到更好的平台",
+    "rarity": "gold",
+    "unlock_rate": 7.0,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 877,
+    "title": "志愿者·重温",
+    "description": "用行动传递爱 —— 累计志愿服务超过100小时",
+    "rarity": "copper",
+    "unlock_rate": 12.0,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 878,
+    "title": "咖啡品鉴师·超越",
+    "description": "从速溶到手冲 —— 懂得品鉴咖啡",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 879,
+    "title": "第一份工资·大师版",
+    "description": "用自己的双手赚到钱 —— 领取第一份薪水",
+    "rarity": "gold",
+    "unlock_rate": 16.0,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 880,
+    "title": "买房无贷·精英版",
+    "description": "无债一身轻 —— 全款买房",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 881,
+    "title": "孩子上学·重温",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "copper",
+    "unlock_rate": 21.0,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 882,
+    "title": "购车圆梦·大师版",
+    "description": "四个轮子的自由 —— 购买第一辆车",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 883,
+    "title": "音乐节狂欢·重温",
+    "description": "草地上的青春 —— 参加过音乐节",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 884,
+    "title": "感恩之心·再次",
+    "description": "感谢生命中的一切 —— 每天心怀感恩",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 885,
+    "title": "学会做饭·突破",
+    "description": "从泡面到满汉全席 —— 学会做10道以上家常菜",
+    "rarity": "silver",
+    "unlock_rate": 25.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 886,
+    "title": "财富自由·重温",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 887,
+    "title": "社群领袖·进阶版",
+    "description": "一群人的主心骨 —— 创建并运营过社群",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 888,
+    "title": "孩子上学·精英版",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 889,
+    "title": "天涯海角·坚持",
+    "description": "走到中国最南端 —— 去过海南",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 890,
+    "title": "蓉城时光·精英版",
+    "description": "宽窄巷子的悠闲午后 —— 去过成都",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 891,
+    "title": "学会游泳·至尊版",
+    "description": "从怕水到如鱼得水 —— 学会游泳",
+    "rarity": "gold",
+    "unlock_rate": 14.0,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 892,
+    "title": "百万突破·突破",
+    "description": "七位数的里程碑 —— 个人资产突破百万",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 893,
+    "title": "社交达人·再次",
+    "description": "朋友遍天下 —— 微信好友超过500人",
+    "rarity": "copper",
+    "unlock_rate": 33.0,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 894,
+    "title": "月入十万·超越",
+    "description": "精英阶层 —— 月薪突破10万元",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 895,
+    "title": "咖啡师·精英版",
+    "description": "拉花是一门艺术 —— 会做花式咖啡",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 896,
+    "title": "学会编程·超越",
+    "description": "从Hello World到构建世界 —— 掌握一门编程语言",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 897,
+    "title": "学会乐器·坚持",
+    "description": "指尖流淌出旋律 —— 学会一种乐器",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 898,
+    "title": "异地坚守·再次",
+    "description": "距离没有打败爱情 —— 异地恋超过1年",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 899,
+    "title": "信仰之路·传说版",
+    "description": "心灵的归宿 —— 找到精神信仰",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 900,
+    "title": "冥想入门·至尊版",
+    "description": "和内心对话 —— 坚持冥想超过100天",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 901,
+    "title": "健身增肌·突破",
+    "description": "穿衣显瘦脱衣有肉 —— 坚持健身1年以上",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 902,
+    "title": "雪域高原·坚持",
+    "description": "离天空最近的地方 —— 去过西藏",
+    "rarity": "silver",
+    "unlock_rate": 12.0,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 903,
+    "title": "天涯海角·超越",
+    "description": "走到中国最南端 —— 去过海南",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 904,
+    "title": "瑜伽大师·至尊版",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 905,
+    "title": "绘画精通·突破",
+    "description": "妙笔生花 —— 绘画达到专业水平",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 906,
+    "title": "咖啡师·传说版",
+    "description": "拉花是一门艺术 —— 会做花式咖啡",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 907,
+    "title": "月入十万·至尊版",
+    "description": "精英阶层 —— 月薪突破10万元",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 908,
+    "title": "纸婚之喜·坚持",
+    "description": "第一年，一切都是新的 —— 结婚一周年",
+    "rarity": "copper",
+    "unlock_rate": 9.8,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 909,
+    "title": "金婚父母·大师版",
+    "description": "父母的爱情是最好的榜样 —— 父母结婚50年",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 910,
+    "title": "收养流浪动物·大师版",
+    "description": "给它们一个家 —— 收养过流浪猫狗",
+    "rarity": "gold",
+    "unlock_rate": 0.8,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 911,
+    "title": "养宠物·精英版",
+    "description": "毛茸茸的家人 —— 养过一只宠物",
+    "rarity": "silver",
+    "unlock_rate": 20.0,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 912,
+    "title": "演唱会现场·突破",
+    "description": "万人合唱的感动 —— 看过偶像演唱会",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 913,
+    "title": "学会编程·重温",
+    "description": "从Hello World到构建世界 —— 掌握一门编程语言",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 914,
+    "title": "行业大牛·传说版",
+    "description": "一提及你的名字，业内都知道 —— 成为行业知名人物",
+    "rarity": "gold",
+    "unlock_rate": 0.4,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 915,
+    "title": "视力保持·再次",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 916,
+    "title": "异地坚守·进阶版",
+    "description": "距离没有打败爱情 —— 异地恋超过1年",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 917,
+    "title": "绘画精通·再次",
+    "description": "妙笔生花 —— 绘画达到专业水平",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 918,
+    "title": "塞外风光·大师版",
+    "description": "大漠孤烟直 —— 去过新疆",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 919,
+    "title": "孩子第一声爸妈·进阶版",
+    "description": "那一刻心都化了 —— 听到孩子第一次叫爸妈",
+    "rarity": "gold",
+    "unlock_rate": 8.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 920,
+    "title": "家族聚会·大师版",
+    "description": "四世同堂的温馨 —— 举办过大型家族聚会",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 921,
+    "title": "内心强大·精英版",
+    "description": "百毒不侵的内心 —— 面对挫折不气馁",
+    "rarity": "silver",
+    "unlock_rate": 10.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 922,
+    "title": "学会骑车·至尊版",
+    "description": "风在耳边呼啸，我学会了平衡 —— 学会骑自行车",
+    "rarity": "gold",
+    "unlock_rate": 18.0,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 923,
+    "title": "健康饮食·精英版",
+    "description": "告别垃圾食品 —— 坚持健康饮食1年",
+    "rarity": "silver",
+    "unlock_rate": 4.0,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 924,
+    "title": "瑜伽大师·超越",
+    "description": "身心合一的境界 —— 练习瑜伽超过3年",
+    "rarity": "silver",
+    "unlock_rate": 2.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 925,
+    "title": "白头偕老·大师版",
+    "description": "从青丝到白发，身边始终是你 —— 相伴到老",
+    "rarity": "gold",
+    "unlock_rate": 0.4,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 926,
+    "title": "百天纪念·传说版",
+    "description": "一起走过第一个一百天 —— 恋爱满100天",
+    "rarity": "gold",
+    "unlock_rate": 4.4,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 927,
+    "title": "装修新家·超越",
+    "description": "亲手打造理想中的家 —— 完成房屋装修",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 928,
+    "title": "公众演讲·大师版",
+    "description": "台下百十号人 —— 在100人以上场合演讲",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 929,
+    "title": "学会品茶·至尊版",
+    "description": "一杯清茶，半日悠闲 —— 懂得品茶",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 930,
+    "title": "初入职场·传说版",
+    "description": "拿着简历，忐忑推开第一扇门 —— 找到第一份工作",
+    "rarity": "gold",
+    "unlock_rate": 17.0,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 931,
+    "title": "舞蹈达人·超越",
+    "description": "舞池中最耀眼的星 —— 精通一种舞蹈",
+    "rarity": "silver",
+    "unlock_rate": 3.5,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 932,
+    "title": "戒酒成功·大师版",
+    "description": "清醒的人生更精彩 —— 成功戒酒",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 933,
+    "title": "冥想入门·突破",
+    "description": "和内心对话 —— 坚持冥想超过100天",
+    "rarity": "silver",
+    "unlock_rate": 3.0,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 934,
+    "title": "纸婚之喜·突破",
+    "description": "第一年，一切都是新的 —— 结婚一周年",
+    "rarity": "silver",
+    "unlock_rate": 3.2,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 935,
+    "title": "年薪百万·精英版",
+    "description": "百万年薪俱乐部 —— 年薪突破百万",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 936,
+    "title": "追剧达人·进阶版",
+    "description": "熬夜追完一整部剧 —— 有过通宵追剧经历",
+    "rarity": "silver",
+    "unlock_rate": 22.5,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 937,
+    "title": "百万资产·传说版",
+    "description": "七位数的里程碑 —— 总资产突破百万",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 938,
+    "title": "五百万资产·精英版",
+    "description": "半千万的门槛 —— 总资产突破500万",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 939,
+    "title": "冥想觉醒·大师版",
+    "description": "内观自己的内心 —— 冥想中体验到深度平静",
+    "rarity": "gold",
+    "unlock_rate": 0.6,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 940,
+    "title": "社群领袖·大师版",
+    "description": "一群人的主心骨 —— 创建并运营过社群",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 941,
+    "title": "热心助人·突破",
+    "description": "赠人玫瑰手有余香 —— 经常帮助陌生人",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 942,
+    "title": "热心助人·进阶版",
+    "description": "赠人玫瑰手有余香 —— 经常帮助陌生人",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 943,
+    "title": "领导才能·坚持",
+    "description": "一呼百应的魅力 —— 带领过10人以上团队",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "bird",
+    "completed": false
+  },
+  {
+    "id": 944,
+    "title": "纸婚之喜·重温",
+    "description": "第一年，一切都是新的 —— 结婚一周年",
+    "rarity": "copper",
+    "unlock_rate": 9.8,
+    "icon": "fish",
+    "completed": false
+  },
+  {
+    "id": 945,
+    "title": "孩子上学·进阶版",
+    "description": "背着小书包的背影 —— 孩子上小学",
+    "rarity": "silver",
+    "unlock_rate": 7.0,
+    "icon": "cat",
+    "completed": false
+  },
+  {
+    "id": 946,
+    "title": "手足情深·大师版",
+    "description": "一生的兄弟姐妹 —— 和兄弟姐妹关系亲密",
+    "rarity": "gold",
+    "unlock_rate": 7.0,
+    "icon": "dog",
+    "completed": false
+  },
+  {
+    "id": 947,
+    "title": "孩子第一声爸妈·大师版",
+    "description": "那一刻心都化了 —— 听到孩子第一次叫爸妈",
+    "rarity": "gold",
+    "unlock_rate": 3.2,
+    "icon": "paw",
+    "completed": false
+  },
+  {
+    "id": 948,
+    "title": "买车无贷·再次",
+    "description": "四轮的自由 —— 全款买车",
+    "rarity": "copper",
+    "unlock_rate": 22.5,
+    "icon": "wing",
+    "completed": false
+  },
+  {
+    "id": 949,
+    "title": "学会骑车·再次",
+    "description": "风在耳边呼啸，我学会了平衡 —— 学会骑自行车",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "eye",
+    "completed": false
+  },
+  {
+    "id": 950,
+    "title": "社群领袖·精英版",
+    "description": "一群人的主心骨 —— 创建并运营过社群",
+    "rarity": "silver",
+    "unlock_rate": 2.5,
+    "icon": "brain",
+    "completed": false
+  },
+  {
+    "id": 951,
+    "title": "终身学习·坚持",
+    "description": "活到老学到老 —— 保持学习的习惯",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "hand",
+    "completed": false
+  },
+  {
+    "id": 952,
+    "title": "自我接纳·精英版",
+    "description": "和不完美的自己和解 —— 完全接纳自己",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "heart",
+    "completed": false
+  },
+  {
+    "id": 953,
+    "title": "退休提前·坚持",
+    "description": "提前下车，去看世界 —— 40岁前退休",
+    "rarity": "silver",
+    "unlock_rate": 1.2,
+    "icon": "star",
+    "completed": false
+  },
+  {
+    "id": 954,
+    "title": "百天纪念·传说版",
+    "description": "一起走过第一个一百天 —— 恋爱满100天",
+    "rarity": "gold",
+    "unlock_rate": 4.4,
+    "icon": "crown",
+    "completed": false
+  },
+  {
+    "id": 955,
+    "title": "珍珠婚·传说版",
+    "description": "三十年打磨，温润如珠 —— 结婚三十周年",
+    "rarity": "gold",
+    "unlock_rate": 0.3,
+    "icon": "diamond",
+    "completed": false
+  },
+  {
+    "id": 956,
+    "title": "周年之约·至尊版",
+    "description": "春夏秋冬又一春 —— 恋爱一周年",
+    "rarity": "gold",
+    "unlock_rate": 3.6,
+    "icon": "trophy",
+    "completed": false
+  },
+  {
+    "id": 957,
+    "title": "公众演讲·突破",
+    "description": "台下百十号人 —— 在100人以上场合演讲",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "medal",
+    "completed": false
+  },
+  {
+    "id": 958,
+    "title": "马拉松完赛·进阶版",
+    "description": "42.195公里的坚持 —— 跑完马拉松全程",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "book",
+    "completed": false
+  },
+  {
+    "id": 959,
+    "title": "情绪自由·至尊版",
+    "description": "不被情绪牵着走 —— 能够掌控自己的情绪",
+    "rarity": "gold",
+    "unlock_rate": 1.2,
+    "icon": "graduation",
+    "completed": false
+  },
+  {
+    "id": 960,
+    "title": "家谱传承·进阶版",
+    "description": "知道家族三代以上的故事 —— 了解家族历史",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "briefcase",
+    "completed": false
+  },
+  {
+    "id": 961,
+    "title": "内心强大·至尊版",
+    "description": "百毒不侵的内心 —— 面对挫折不气馁",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "rocket",
+    "completed": false
+  },
+  {
+    "id": 962,
+    "title": "技能精通·再次",
+    "description": "十年磨一剑 —— 在某领域深耕超过10年",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "plane",
+    "completed": false
+  },
+  {
+    "id": 963,
+    "title": "记忆大师·重温",
+    "description": "过目不忘的本领 —— 拥有超强记忆力",
+    "rarity": "silver",
+    "unlock_rate": 1.5,
+    "icon": "car",
+    "completed": false
+  },
+  {
+    "id": 964,
+    "title": "视力保持·重温",
+    "description": "清晰的世界 —— 成年后视力没有下降",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "bicycle",
+    "completed": false
+  },
+  {
+    "id": 965,
+    "title": "新手宝妈·坚持",
+    "description": "十月怀胎的辛苦与幸福 —— 成为母亲",
+    "rarity": "silver",
+    "unlock_rate": 27.0,
+    "icon": "mountain",
+    "completed": false
+  },
+  {
+    "id": 966,
+    "title": "百公里徒步·突破",
+    "description": "用脚步丈量大地 —— 完成百公里徒步",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "sun",
+    "completed": false
+  },
+  {
+    "id": 967,
+    "title": "滑雪初体验·大师版",
+    "description": "雪道上的飞驰 —— 学会滑雪",
+    "rarity": "gold",
+    "unlock_rate": 1.6,
+    "icon": "moon",
+    "completed": false
+  },
+  {
+    "id": 968,
+    "title": "烘焙达人·重温",
+    "description": "烤箱里飘出的香甜 —— 学会烘焙",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "coffee",
+    "completed": false
+  },
+  {
+    "id": 969,
+    "title": "存款七位数·精英版",
+    "description": "百万存款俱乐部 —— 存款超过100万",
+    "rarity": "gold",
+    "unlock_rate": 4.0,
+    "icon": "music",
+    "completed": false
+  },
+  {
+    "id": 970,
+    "title": "职场人脉·再次",
+    "description": "多个朋友多条路 —— 职场人脉超过100人",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "camera",
+    "completed": false
+  },
+  {
+    "id": 971,
+    "title": "首次加薪·再次",
+    "description": "努力被看见，数字在跳动 —— 第一次涨工资",
+    "rarity": "copper",
+    "unlock_rate": 60.0,
+    "icon": "film",
+    "completed": false
+  },
+  {
+    "id": 972,
+    "title": "活在当下·至尊版",
+    "description": "不念过往不畏将来 —— 享受当下每一刻",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "game",
+    "completed": false
+  },
+  {
+    "id": 973,
+    "title": "冥想入门·重温",
+    "description": "和内心对话 —— 坚持冥想超过100天",
+    "rarity": "copper",
+    "unlock_rate": 9.0,
+    "icon": "sport",
+    "completed": false
+  },
+  {
+    "id": 974,
+    "title": "学会乐器·坚持",
+    "description": "指尖流淌出旋律 —— 学会一种乐器",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "food",
+    "completed": false
+  },
+  {
+    "id": 975,
+    "title": "含饴弄孙·进阶版",
+    "description": "生命的延续 —— 抱上孙子/孙女",
+    "rarity": "gold",
+    "unlock_rate": 5.0,
+    "icon": "home",
+    "completed": false
+  },
+  {
+    "id": 976,
+    "title": "全家福·重温",
+    "description": "一年一度的团圆 —— 每年拍全家福",
+    "rarity": "copper",
+    "unlock_rate": 37.5,
+    "icon": "family",
+    "completed": false
+  },
+  {
+    "id": 977,
+    "title": "跳伞体验·进阶版",
+    "description": "自由落体的快感 —— 体验过跳伞",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "friend",
+    "completed": false
+  },
+  {
+    "id": 978,
+    "title": "财富自由·重温",
+    "description": "不用为钱工作的那一天 —— 被动收入覆盖生活开支",
+    "rarity": "silver",
+    "unlock_rate": 2.2,
+    "icon": "love",
+    "completed": false
+  },
+  {
+    "id": 979,
+    "title": "金婚父母·精英版",
+    "description": "父母的爱情是最好的榜样 —— 父母结婚50年",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "work",
+    "completed": false
+  },
+  {
+    "id": 980,
+    "title": "初吻·超越",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "gold",
+    "unlock_rate": 14.0,
+    "icon": "money",
+    "completed": false
+  },
+  {
+    "id": 981,
+    "title": "感恩之心·坚持",
+    "description": "感谢生命中的一切 —— 每天心怀感恩",
+    "rarity": "copper",
+    "unlock_rate": 18.0,
+    "icon": "health",
+    "completed": false
+  },
+  {
+    "id": 982,
+    "title": "初吻·大师版",
+    "description": "时间停止，万物失色 —— 人生第一个吻",
+    "rarity": "gold",
+    "unlock_rate": 5.6,
+    "icon": "nature",
+    "completed": false
+  },
+  {
+    "id": 983,
+    "title": "欧洲之旅·再次",
+    "description": "浪漫的巴黎铁塔 —— 去过欧洲",
+    "rarity": "silver",
+    "unlock_rate": 6.0,
+    "icon": "art",
+    "completed": false
+  },
+  {
+    "id": 984,
+    "title": "孩子结婚·超越",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "gold",
+    "unlock_rate": 2.5,
+    "icon": "science",
+    "completed": false
+  },
+  {
+    "id": 985,
+    "title": "新婚燕尔·精英版",
+    "description": "执子之手，与子偕老 —— 步入婚姻殿堂",
+    "rarity": "gold",
+    "unlock_rate": 3.5,
+    "icon": "tech",
+    "completed": false
+  },
+  {
+    "id": 986,
+    "title": "终身学习·再次",
+    "description": "活到老学到老 —— 保持学习的习惯",
+    "rarity": "copper",
+    "unlock_rate": 15.0,
+    "icon": "clock",
+    "completed": false
+  },
+  {
+    "id": 987,
+    "title": "含饴弄孙·大师版",
+    "description": "生命的延续 —— 抱上孙子/孙女",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "target",
+    "completed": false
+  },
+  {
+    "id": 988,
+    "title": "月入十万·突破",
+    "description": "精英阶层 —— 月薪突破10万元",
+    "rarity": "gold",
+    "unlock_rate": 1.5,
+    "icon": "flag",
+    "completed": false
+  },
+  {
+    "id": 989,
+    "title": "孩子结婚·再次",
+    "description": "又一个新家庭的诞生 —— 孩子成家",
+    "rarity": "silver",
+    "unlock_rate": 7.5,
+    "icon": "key",
+    "completed": false
+  },
+  {
+    "id": 990,
+    "title": "活在当下·传说版",
+    "description": "不念过往不畏将来 —— 享受当下每一刻",
+    "rarity": "gold",
+    "unlock_rate": 1.0,
+    "icon": "lock",
+    "completed": false
+  },
+  {
+    "id": 991,
+    "title": "初入职场·精英版",
+    "description": "拿着简历，忐忑推开第一扇门 —— 找到第一份工作",
+    "rarity": "silver",
+    "unlock_rate": 42.5,
+    "icon": "gift",
+    "completed": false
+  },
+  {
+    "id": 992,
+    "title": "太极高手·重温",
+    "description": "以柔克刚的智慧 —— 练习太极超过5年",
+    "rarity": "copper",
+    "unlock_rate": 4.5,
+    "icon": "light",
+    "completed": false
+  },
+  {
+    "id": 993,
+    "title": "知心好友·至尊版",
+    "description": "人生得一知己足矣 —— 有3个以上知心朋友",
+    "rarity": "gold",
+    "unlock_rate": 2.0,
+    "icon": "fire",
+    "completed": false
+  },
+  {
+    "id": 994,
+    "title": "潜水之旅·坚持",
+    "description": "海底世界的奇幻 —— 体验过深潜",
+    "rarity": "silver",
+    "unlock_rate": 4.5,
+    "icon": "water",
+    "completed": false
+  },
+  {
+    "id": 995,
+    "title": "东方之珠·至尊版",
+    "description": "维多利亚港的夜景 —— 去过香港",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 996,
+    "title": "健身增肌·大师版",
+    "description": "穿衣显瘦脱衣有肉 —— 坚持健身1年以上",
+    "rarity": "gold",
+    "unlock_rate": 2.4,
+    "icon": "earth",
+    "completed": false
+  },
+  {
+    "id": 997,
+    "title": "学会编程·大师版",
+    "description": "从Hello World到构建世界 —— 掌握一门编程语言",
+    "rarity": "gold",
+    "unlock_rate": 3.0,
+    "icon": "tree",
+    "completed": false
+  },
+  {
+    "id": 998,
+    "title": "减肥成功·坚持",
+    "description": "遇见更好的自己 —— 减重20斤以上",
+    "rarity": "copper",
+    "unlock_rate": 27.0,
+    "icon": "flower",
+    "completed": false
+  },
+  {
+    "id": 999,
+    "title": "技能精通·再次",
+    "description": "十年磨一剑 —— 在某领域深耕超过10年",
+    "rarity": "silver",
+    "unlock_rate": 9.0,
+    "icon": "bird",
+    "completed": false
+  }
+]

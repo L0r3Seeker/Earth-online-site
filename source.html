@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>查看源码 · 地球Online</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <script src="static/js/svg-icons.js"></script>
+    <script src="static/js/background.js"></script>
+    <script src="static/js/app.js"></script>
+</head>
+<body class="theme-wave">
+    <canvas id="background-canvas"></canvas>
+
+    <div class="star-bg"></div>
+    <div class="subtle-grid"></div>
+
+    <div id="wavy-bg" class="wavy-background">
+        <div class="wave"></div>
+        <div class="wave"></div>
+        <div class="wave"></div>
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-container">
+            <div class="nav-left">
+                <span class="nav-icon">🌍</span>
+                <span class="nav-title">地球Online 玩家成就系统</span>
+            </div>
+            <div class="nav-right">
+                <a href="index.html" class="nav-btn ripple-btn">主页面</a>
+                <a href="source.html" class="nav-btn ripple-btn active">查看源码</a>
+                <a href="cooperation.html" class="nav-btn ripple-btn">技术服务</a>
+                <span class="nav-stats" id="nav-stats">
+                    <span class="nav-stats-icon">🏆</span>
+                    <span class="nav-stats-text" id="nav-stats-text">0 / 0 · 0%</span>
+                </span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="main-content">
+<div class="source-page">
+    <div class="page-header">
+        <h1 class="page-title">查看源码</h1>
+        <p class="page-subtitle">地球Online成就系统 - 开放源代码与架构解析</p>
+    </div>
+
+    <div class="source-tabs">
+        <button class="source-tab active" data-tab="intro">项目介绍</button>
+        <button class="source-tab" data-tab="code">完整源码</button>
+        <button class="source-tab" data-tab="explain">代码解析</button>
+        <button class="source-tab" data-tab="structure">项目结构</button>
+    </div>
+
+    <div class="source-content">
+        <div class="tab-panel active" id="tab-intro">
+            <div class="intro-card">
+                <h2 class="section-title">关于地球Online</h2>
+                <p class="section-desc">本系统是一款基于现代 Web 技术栈构建的玩家行为度量与成就追踪系统，旨在提供高性能、低延迟的数据可视化方案。</p>
+
+                <h3 class="sub-title">核心特色</h3>
+                <ul class="feature-list">
+                    <li>海量数据动态渲染，支持 999+ 成就卡片无缝无卡顿加载。</li>
+                    <li>全动态主题响应系统，完美适配深色、波浪与浅色视觉环境。</li>
+                    <li>轻量化前端架构，纯原生高效交互，拒绝冗余依赖。</li>
+                </ul>
+
+                <h3 class="sub-title">技术栈架构</h3>
+                <div class="tech-grid">
+                    <div class="tech-item">
+                        <div class="tech-indicator"></div>
+                        <div class="tech-name">纯前端架构</div>
+                        <div class="tech-desc">零后端依赖，数据存储于浏览器本地</div>
+                    </div>
+                    <div class="tech-item">
+                        <div class="tech-indicator"></div>
+                        <div class="tech-name">原生 JavaScript</div>
+                        <div class="tech-desc">无框架依赖，极致加载性能</div>
+                    </div>
+                    <div class="tech-item">
+                        <div class="tech-indicator"></div>
+                        <div class="tech-name">LocalStorage</div>
+                        <div class="tech-desc">用户数据本地持久化存储</div>
+                    </div>
+                    <div class="tech-item">
+                        <div class="tech-indicator"></div>
+                        <div class="tech-name">Modern CSS</div>
+                        <div class="tech-desc">基于硬件加速的毛玻璃与响应式布局</div>
+                    </div>
+                </div>
+
+                <h3 class="sub-title">快速开始</h3>
+                <div class="code-block-wrapper">
+                    <button class="copy-btn" onclick="copyCode(this)"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></button>
+                    <pre class="code-block"><code># 克隆开源仓库
+git clone https://github.com/L0r3Seeker/Earth-Online.git
+
+# 直接打开
+直接在浏览器中打开 index.html 即可使用
+
+# 或使用本地服务器
+python -m http.server 8000
+# 然后访问 http://localhost:8000</code></pre>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-panel" id="tab-code">
+            <div class="code-block-wrapper">
+                <button class="copy-btn" onclick="copyCode(this)">复制</button>
+                <pre class="code-block"><code>// 地球Online 玩家成就系统 - 纯前端版
+// 数据存储于浏览器 localStorage，零后端依赖
+
+const STORAGE_KEY = 'earthol_completed';
+const SLOGANS = [
+    "你的一生，皆是成就。",
+    "把平凡的日子，酿成发光的勋章",
+    "每一步都算数，每一刻都值得铭记",
+    "你走过的路，终将成为你的徽章",
+    "人生这场游戏，成就由你定义",
+    "活着，就是不断解锁的过程",
+    "世界是地图，你是唯一的玩家",
+    "每一刻，都是成就",
+    "人生即成就",
+    "你的故事，你的勋章",
+    "把时光穿成串，每一颗都闪亮",
+    "在名为人生的游戏里，收集所有高光时刻"
+];
+
+function loadCompleted() {
+    try {
+        const data = localStorage.getItem(STORAGE_KEY);
+        return data ? new Set(JSON.parse(data)) : new Set();
+    } catch (e) {
+        return new Set();
+    }
+}
+
+function saveCompleted(ids) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify([...ids]));
+}
+
+function toggleAchievement(id) {
+    const completed = loadCompleted();
+    if (completed.has(id)) {
+        completed.delete(id);
+    } else {
+        completed.add(id);
+    }
+    saveCompleted(completed);
+    return completed.has(id);
+}</code></pre>
+            </div>
+        </div>
+
+        <div class="tab-panel" id="tab-explain">
+            <div class="explain-card">
+                <h2 class="section-title">关键代码解析</h2>
+
+                <div class="explain-item">
+                    <h3 class="explain-title">1. 本地数据持久化</h3>
+                    <div class="code-block-wrapper">
+                        <button class="copy-btn" onclick="copyCode(this)">复制</button>
+                        <pre class="code-block"><code>function loadCompleted() {
+    try {
+        const data = localStorage.getItem(STORAGE_KEY);
+        return data ? new Set(JSON.parse(data)) : new Set();
+    } catch (e) {
+        return new Set();
+    }
+}</code></pre>
+                    </div>
+                    <div class="tip-box">
+                        <span class="tip-label">架构提示</span>
+                        <p class="tip-content">使用 localStorage 存储用户已解锁的成就 ID，数据完全保存在用户本地浏览器中，换设备或清除浏览器数据会丢失。采用 Set 数据结构实现 O(1) 时间复杂度的存在性校验。</p>
+                    </div>
+                </div>
+
+                <div class="explain-item">
+                    <h3 class="explain-title">2. 成就切换逻辑</h3>
+                    <div class="code-block-wrapper">
+                        <button class="copy-btn" onclick="copyCode(this)">复制</button>
+                        <pre class="code-block"><code>function toggleAchievement(id) {
+    const completed = loadCompleted();
+    if (completed.has(id)) {
+        completed.delete(id);
+    } else {
+        completed.add(id);
+    }
+    saveCompleted(completed);
+    return completed.has(id);
+}</code></pre>
+                    </div>
+                    <div class="tip-box">
+                        <span class="tip-label">架构提示</span>
+                        <p class="tip-content">纯前端切换，无需网络请求，即时响应。切换后立即更新本地存储并同步 UI 状态。</p>
+                    </div>
+                </div>
+
+                <div class="explain-item">
+                    <h3 class="explain-title">3. 筛选与搜索</h3>
+                    <div class="code-block-wrapper">
+                        <button class="copy-btn" onclick="copyCode(this)">复制</button>
+                        <pre class="code-block"><code>function filterAchievements(filter, search, sort) {
+    let result = [...allAchievements];
+    if (search) {
+        const s = search.toLowerCase();
+        result = result.filter(a =>
+            a.title.toLowerCase().includes(s) ||
+            a.description.toLowerCase().includes(s)
+        );
+    }
+    // 按筛选条件过滤...
+    return result;
+}</code></pre>
+                    </div>
+                    <div class="tip-box">
+                        <span class="tip-label">架构提示</span>
+                        <p class="tip-content">搜索统一转小写，避免大小写匹配差异；筛选与搜索可叠加使用，实现精准的数据过滤。全部在客户端完成，零服务器开销。</p>
+                    </div>
+                </div>
+
+                <div class="explain-item">
+                    <h3 class="explain-title">4. SVG 图标生成系统</h3>
+                    <div class="code-block-wrapper">
+                        <button class="copy-btn" onclick="copyCode(this)">复制</button>
+                        <pre class="code-block"><code>const SVG_COLORS = {
+    gold:   ["#FFD700", "#FFA500", "#B8860B"],
+    silver: ["#C0C0C0", "#A9A9A9", "#808080"],
+    copper: ["#CD7F32", "#B87333", "#8B4513"],
+};
+
+function generateSVG(iconName, rarity = 'silver') {
+    const [c1, c2, c3] = SVG_COLORS[rarity] || SVG_COLORS.silver;
+    const pattern = SVG_PATTERNS[iconName] || SVG_PATTERNS.star;
+    return pattern.replace(/{c1}/g, c1)
+                  .replace(/{c2}/g, c2)
+                  .replace(/{c3}/g, c3);
+}</code></pre>
+                    </div>
+                    <div class="tip-box">
+                        <span class="tip-label">架构提示</span>
+                        <p class="tip-content">通过模板占位符替换颜色，实现"一套图案 + 多套配色"的灵活组合，确保图标系统与 .exe 版本完全一致。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-panel" id="tab-structure">
+            <div class="code-block-wrapper">
+                <button class="copy-btn" onclick="copyCode(this)">复制</button>
+                <pre class="code-block"><code>github-site/
+├── index.html              # 主页面：成就殿堂
+├── source.html             # 源码页：介绍 / 源码 / 解析
+├── cooperation.html        # 技术服务页
+└── static/
+    ├── css/
+    │   └── style.css       # 样式文件（简洁渐变主题）
+    ├── js/
+    │   ├── app.js          # 前端交互（筛选 / 搜索 / 切换）
+    │   ├── svg-icons.js    # SVG 图标系统
+    │   └── background.js   # Canvas 粒子背景动画
+    └── data/
+        ├── achievements.json # 成就数据
+        └── slogans.txt       # 标语列表</code></pre>
+            </div>
+
+            <div class="explain-card" style="margin-top: 24px;">
+                <h2 class="section-title">成就数据结构</h2>
+                <p class="section-desc">单条原始成就数据采用严格的 JSON Schema 规范进行定义，确保向后兼容性。</p>
+                <div class="code-block-wrapper">
+                    <button class="copy-btn" onclick="copyCode(this)"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></button>
+                    <pre class="code-block"><code>{
+    "id": 1,
+    "title": "永恒挚爱",
+    "description": "在茫茫人海中，找到了那一束光",
+    "rarity": "gold",
+    "unlock_rate": 3.2,
+    "icon": "love"
+}</code></pre>
+                </div>
+
+                <h3 class="sub-title">稀有度评级说明</h3>
+                <ul class="rarity-list">
+                    <li><span class="rarity-badge gold">金色评级</span> 稀有度 &lt; 1% 的骨灰级史诗成就</li>
+                    <li><span class="rarity-badge silver">银色评级</span> 稀有度 1% - 10% 的高阶进阶成就</li>
+                    <li><span class="rarity-badge bronze">铜色评级</span> 稀有度 &gt; 10% 的基础探索成就</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+function copyCode(button) {
+    const pre = button.nextElementSibling;
+    const code = pre.textContent;
+    navigator.clipboard.writeText(code).then(() => {
+        button.innerHTML = '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+        button.classList.add('copied');
+        setTimeout(() => {
+            button.innerHTML = '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>';
+            button.classList.remove('copied');
+        }, 2000);
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    const tabs = document.querySelectorAll('.source-tab');
+    const panels = document.querySelectorAll('.tab-panel');
+
+    tabs.forEach(tab => {
+        tab.addEventListener('click', function() {
+            const target = this.dataset.tab;
+            tabs.forEach(t => t.classList.remove('active'));
+            panels.forEach(p => p.classList.remove('active'));
+            this.classList.add('active');
+            document.getElementById('tab-' + target).classList.add('active');
+        });
+    });
+});
+</script>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            window.backgroundManager = new BackgroundManager();
+            if (window.backgroundManager) {
+                window.backgroundManager.changeTheme('wave');
+            }
+        });
+    </script>
+</body>
+</html>

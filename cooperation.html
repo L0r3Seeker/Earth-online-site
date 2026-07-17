@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>技术服务 · 地球Online</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <script src="static/js/svg-icons.js"></script>
+    <script src="static/js/background.js"></script>
+    <script src="static/js/app.js"></script>
+</head>
+<body class="theme-wave">
+    <canvas id="background-canvas"></canvas>
+
+    <div class="star-bg"></div>
+    <div class="subtle-grid"></div>
+
+    <div id="wavy-bg" class="wavy-background">
+        <div class="wave"></div>
+        <div class="wave"></div>
+        <div class="wave"></div>
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-container">
+            <div class="nav-left">
+                <span class="nav-icon">🌍</span>
+                <span class="nav-title">地球Online 玩家成就系统</span>
+            </div>
+            <div class="nav-right">
+                <a href="index.html" class="nav-btn ripple-btn">主页面</a>
+                <a href="source.html" class="nav-btn ripple-btn">查看源码</a>
+                <a href="cooperation.html" class="nav-btn ripple-btn active">技术服务</a>
+                <span class="nav-stats" id="nav-stats">
+                    <span class="nav-stats-icon">🏆</span>
+                    <span class="nav-stats-text" id="nav-stats-text">0 / 0 · 0%</span>
+                </span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="main-content">
+<div class="cooperation-page">
+    <!-- 开场介绍 -->
+    <div class="page-header">
+        <h1 class="page-title">技术服务</h1>
+        <p class="page-subtitle">专注实用的数字化解决方案</p>
+    </div>
+
+    <div class="coop-intro-card">
+        <h2 class="section-title">我们相信技术应该直接服务于需求</h2>
+        <p class="section-desc">地球Online玩家成就统计系统是一个由独立开发者完成的全栈项目，涵盖前端交互、后端架构与数据可视化。从数据管理、用户系统到动态渲染，我们注重代码质量、交付稳定性与用户体验。</p>
+        <p class="section-desc">如果您正在寻找可靠的技术支持，欢迎了解我们的服务能力。</p>
+    </div>
+
+    <!-- 能力展示 -->
+    <div class="coop-section">
+        <h2 class="section-title">服务能力</h2>
+        <div class="coop-grid">
+            <div class="coop-card">
+                <div class="coop-icon">
+                    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                </div>
+                <div class="coop-card-title">网站开发</div>
+                <div class="coop-card-desc">为个人品牌、小型企业搭建响应式官网与展示平台，兼顾视觉表现与加载性能。</div>
+            </div>
+            <div class="coop-card">
+                <div class="coop-icon">
+                    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>
+                </div>
+                <div class="coop-card-title">AI应用开发</div>
+                <div class="coop-card-desc">基于大语言模型与自动化技术，打造智能客服、内容生成、数据处理等实用工具。</div>
+            </div>
+            <div class="coop-card">
+                <div class="coop-icon">
+                    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 20V10"></path><path d="M18 20V4"></path><path d="M6 20v-4"></path></svg>
+                </div>
+                <div class="coop-card-title">数据系统开发</div>
+                <div class="coop-card-desc">设计用户数据后台、统计分析面板与可视化报表，让数据驱动决策。</div>
+            </div>
+            <div class="coop-card">
+                <div class="coop-icon">
+                    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                </div>
+                <div class="coop-card-title">小型应用开发</div>
+                <div class="coop-card-desc">从需求分析到上线部署，快速交付MVP与定制化工具，降低试错成本。</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 未来方向 -->
+    <div class="coop-section">
+        <div class="explain-card">
+            <h2 class="section-title">未来方向</h2>
+            <p class="section-desc">我们希望通过技术帮助更多个人创作者、小型团队和企业快速实现数字化想法。</p>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">阶段一</h3>
+                        <p class="timeline-desc">打磨现有项目，沉淀稳定的技术方案</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">阶段二</h3>
+                        <p class="timeline-desc">为真实客户提供定制开发与技术支持</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">阶段三</h3>
+                        <p class="timeline-desc">将成熟需求产品化，构建可持续迭代的产品</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 合作方式 -->
+    <div class="coop-section">
+        <h2 class="section-title">合作方式</h2>
+        <div class="coop-grid two-col">
+            <div class="coop-card wide">
+                <div class="coop-card-title">定制开发</div>
+                <p class="coop-card-desc">按需求计价，交付源码与部署支持</p>
+                <ul class="coop-list">
+                    <li>响应式网站与品牌官网搭建</li>
+                    <li>内部工具与管理后台开发</li>
+                    <li>AI能力接入与自动化流程</li>
+                </ul>
+                <p class="coop-card-desc">从需求沟通到最终交付，全程可控。</p>
+            </div>
+            <div class="coop-card wide">
+                <div class="coop-card-title">技术咨询</div>
+                <p class="coop-card-desc">按工时计费，提供评估与优化方案</p>
+                <ul class="coop-list">
+                    <li>现有项目技术架构评估</li>
+                    <li>性能瓶颈分析与优化</li>
+                    <li>原型验证与实现路径规划</li>
+                </ul>
+                <p class="coop-card-desc">帮助您在关键决策前降低风险。</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 联系方式 -->
+    <div class="coop-section">
+        <div class="contact-card">
+            <h2 class="section-title" style="text-align: center;">如果你有任何想法</h2>
+            <p class="section-desc" style="text-align: center;">欢迎联系</p>
+            <div class="contact-grid">
+                <a href="https://github.com/L0r3Seeker/Earth-Online" target="_blank" class="contact-item ripple-btn" title="L0r3Seeker/Earth-Online">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                    <span>GitHub</span>
+                </a>
+                <a href="mailto:ecatnip@163.com" class="contact-item ripple-btn" title="ecatnip@163.com">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                    <span>邮箱</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            window.backgroundManager = new BackgroundManager();
+            if (window.backgroundManager) {
+                window.backgroundManager.changeTheme('wave');
+            }
+        });
+    </script>
+</body>
+</html>

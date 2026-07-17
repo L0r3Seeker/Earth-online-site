@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>地球Online · 玩家成就系统</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <script src="static/js/svg-icons.js"></script>
+    <script src="static/js/background.js"></script>
+    <script src="static/js/app.js"></script>
+</head>
+<body class="theme-wave">
+    <canvas id="background-canvas"></canvas>
+
+    <div class="star-bg"></div>
+    <div class="subtle-grid"></div>
+
+    <div id="wavy-bg" class="wavy-background">
+        <div class="wave"></div>
+        <div class="wave"></div>
+        <div class="wave"></div>
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-container">
+            <div class="nav-left">
+                <span class="nav-icon">🌍</span>
+                <span class="nav-title">地球Online 玩家成就系统</span>
+            </div>
+            <div class="nav-right">
+                <a href="index.html" class="nav-btn ripple-btn active">主页面</a>
+                <a href="source.html" class="nav-btn ripple-btn">查看源码</a>
+                <a href="cooperation.html" class="nav-btn ripple-btn">技术服务</a>
+                <span class="nav-stats" id="nav-stats">
+                    <span class="nav-stats-icon">🏆</span>
+                    <span class="nav-stats-text" id="nav-stats-text">0 / 0 · 0%</span>
+                </span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="main-content">
+<div class="home-page">
+    <header class="header">
+        <div class="header-content">
+            <div class="header-left">
+                <span class="page-eyebrow">EARTH ONLINE · PLAYER ARCHIVE</span>
+                <h1 class="page-title">地球OL玩家成就系统</h1>
+                <p class="page-subtitle" id="page-slogan">你的一生，皆是成就。</p>
+            </div>
+            <div class="header-right stats-fixed">
+                <div class="stats-card">
+                    <div class="stats-info">
+                        <span class="stats-label">已解锁成就</span>
+                        <span class="stats-value" id="stats-value">0 / 0 · 0%</span>
+                    </div>
+                </div>
+                <div class="stats-card visitor-stats-card">
+                    <div class="stats-info">
+                        <span class="stats-label">访问统计</span>
+                        <span class="stats-value" id="visit-stats">总访问 0 · 今日 0</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="progress-bar-container">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+            </div>
+        </div>
+    </header>
+
+    <div class="filter-bar">
+        <span class="filter-label">筛选</span>
+        <div class="select-wrapper">
+            <select id="filter-select" class="filter-select">
+                <option value="all">全部成就</option>
+                <option value="completed">已完成</option>
+                <option value="uncompleted">未完成</option>
+                <option value="gold">金色成就</option>
+                <option value="silver">银色成就</option>
+                <option value="copper">铜色成就</option>
+            </select>
+        </div>
+        <span class="filter-label">排序</span>
+        <div class="select-wrapper">
+            <select id="sort-select" class="filter-select">
+                <option value="default">默认顺序</option>
+                <option value="rate_desc">完成率从高到低</option>
+                <option value="rate_asc">完成率从低到高</option>
+                <option value="rarity">按稀有度排序</option>
+            </select>
+        </div>
+        <div class="search-wrapper">
+            <input type="search" id="search-input" class="search-input" placeholder="搜索标题或成就介绍" aria-label="搜索成就">
+        </div>
+        <span class="count-label" id="count-label">共 0 个成就</span>
+    </div>
+
+    <div id="achievements-list" class="achievements-list"></div>
+    <nav class="pagination" id="pagination" aria-label="成就分页"></nav>
+</div>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            window.backgroundManager = new BackgroundManager();
+            if (window.backgroundManager) {
+                window.backgroundManager.changeTheme('wave');
+            }
+        });
+    </script>
+</body>
+</html>
